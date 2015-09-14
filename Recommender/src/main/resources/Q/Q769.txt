@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  to  make  a  of  some  object  and  arraylisthow  can  i  do  that  without  loop  and  call  clone  there  arent  standard  util  for  do  this  thanksjoþžœo  ,    

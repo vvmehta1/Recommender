@@ -1,0 +1,1 @@
+ question  ,  thread  t1  =  new  thread();  ,when  i  say  someth  like  doe  it  creat  it  on  a  heap  or  a  stack  ,  simpleassignmentexpress  objectcreationstat  constructorcal    

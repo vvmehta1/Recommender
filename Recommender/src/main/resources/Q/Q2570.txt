@@ -1,0 +1,1 @@
+ question  ,  thread.join();  thread.wait();  thread.notify();  notifyall();  thread.wait()  ,  will  call  but  who  and  when  notifi  either  with  or  the  as  we  know  thread  join  will  wait  for  the  thread  to  be  complet  but  who  call  notifi  on  it  ,  objectmethodinvoc 

@@ -1,0 +1,1 @@
+ question  ,  null,  excus  me  i  search  a  lot  to  find  how  those  function  paint  repaint  paintcompon  interact  between  them  but  i  have  no  idea  can  you  explain  me  exact  when  they  are  call  becaus  sometim  java  call  it  without  me  ask  him  what  they  do  exact  and  what  is  the  differ  between  them  thank  you  , 

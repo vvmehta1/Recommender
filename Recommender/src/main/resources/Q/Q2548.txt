@@ -1,0 +1,1 @@
+ question  ,  linkedblockingqueue;  add;  take;  add;  take;  linkedblockingqueue  ,im  use  between  two  differ  thread  one  thread  add  data  via  while  the  other  thread  receiv  data  via  my  question  is  do  i  need  to  synchron  access  to  and  iss  insert  and  remov  method  thread  safe  ,  objectvari  simplevari  simpleassignmentexpress    

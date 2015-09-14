@@ -1,0 +1,1 @@
+ question  ,  null,  im  a  java  beginn  and  im  tri  to  build  a  simpl  stopwatch  program  that  display  the  time  on  a  swing  gui  make  the  stopwatch  is  easi  howev  i  cannot  find  a  way  to  make  the  gui  updat  everi  second  and  display  the  current  time  on  the  stopwatch  how  can  i  do  this  , 

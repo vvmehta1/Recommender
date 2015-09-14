@@ -1,0 +1,1 @@
+ question  ,  null,  is  it  requir  to  synchron  read  onli  access  to  string  in  java  ,    objectvari  simplevari  stringinitializationstat  stringvari  stringdatatyp  simpleassignmentexpress  stringliter     stringvari  stringdatatyp  simplevari  simpleassignmentexpress        simpleassignmentexpress  

@@ -1,0 +1,1 @@
+ question  ,  thread.currentthread().sleep(x);;  thread.sleep(x);  ,i  have  this  in  my  code  eclips  tell  me  to  use  the  static  instead  whi  what  the  differ  is  there  some  differ  in  function  at  all  between  these  method  ,  objectmethodinvoc  actualmethodparamet 

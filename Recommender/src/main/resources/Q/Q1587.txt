@@ -1,0 +1,1 @@
+ question  ,  joptionpane.showinputdialog  ,when  the  user  click  a  button  i  want  to  show  a  popup  form  that  should  have  at  least  two  jtextfield  and  two  jlabel  so  use  is  not  a  possibl  ,  simpleassignmentexpress 

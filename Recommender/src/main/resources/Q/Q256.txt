@@ -1,0 +1,1 @@
+ question  ,  wwww.domain.com/codes/myclass.class  ,is  there  a  way  to  use  a  reflect  over  the  network  likew  have  got  a  server  where  we  save  the  code  and  on  the  other  server  we  run  the  program  and  load  differ  code  from  the  first  server  thank  ,    

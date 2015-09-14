@@ -1,0 +1,1 @@
+ question  ,  null,  is  pointer  is  just  use  for  implement  java  refer  variabl  or  how  it  is  realli  implementedbelow  are  the  line  from  java  languag  specif  doe  that  mean  it  is  pointer  all  the  time  ,          intdatatyp  simpleassignmentexpress  objectcreationstat  constructorcal     

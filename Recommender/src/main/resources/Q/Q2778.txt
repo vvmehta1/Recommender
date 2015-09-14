@@ -1,0 +1,1 @@
+ question  ,  gc;  run();  daemon;  thread  ,daemon  thread  provid  servic  for  user  thread  apart  from  what  is  anoth  exampl  case  where  a  daemon  thread  can  be  use  ani  tasklog  that  can  be  insid  the  method  of  a  in  practic  ,  simpleassignmentexpress       

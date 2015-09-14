@@ -1,0 +1,1 @@
+ question  ,  null,  is  there  a  way  to  make  certain  event  action  specif  to  left  and  right  mous  clicksim  creat  a  minesweep  gui  so  when  a  squar  is  leftclick  it  will  be  uncov  when  it  rightclick  it  will  be  flaggedi  wasnt  sure  how  to  syntact  check  for  this  couldnt  find  it  on  the  tut  thank  for  the  help  ,       

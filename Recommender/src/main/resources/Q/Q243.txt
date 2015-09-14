@@ -1,0 +1,1 @@
+ question  ,  class<?>  ,ive  had  a  look  around  but  noth  seem  to  quit  cover  what  i  wish  to  do  is  it  possibl  to  save  a  instanc  object  at  runtimeif  so  how  would  i  go  about  do  it  ,       

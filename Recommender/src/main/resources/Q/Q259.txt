@@ -1,0 +1,1 @@
+ question  ,  null,  im  tri  to  make  a  program  that  can  load  an  unknown  set  of  plugin  from  a  subfold  pluginsal  of  these  plugin  implement  the  same  interfacewhat  i  need  to  know  is  how  do  i  find  all  of  the  class  in  this  folder  so  that  i  can  instanti  and  use  them  ,    simpleassignmentexpress        

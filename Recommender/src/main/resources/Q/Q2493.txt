@@ -1,0 +1,1 @@
+ question  ,  null,  what  is  the  differ  between  a  thread  and  a  process  in  the  java  contexthow  is  interprocess  communic  and  interthread  communic  achiev  in  javapleas  point  me  at  some  real  life  exampl  ,       

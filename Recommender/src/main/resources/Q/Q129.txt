@@ -1,0 +1,1 @@
+ question  ,  null,  im  build  a  java  applic  that  has  part  that  requir  daili  updat  i  want  to  download  frequent  updat  part  as  small  jar  file  from  my  server  to  memori  im  download  the  jar  file  as  byte  stream  and  not  use  urlclassload  , 

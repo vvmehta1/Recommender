@@ -1,0 +1,1 @@
+ question  ,  static;  final  ,i  know  in  method  be  overriden  by  the  subclasswhi  is  that  could  anyon  explain  me  the  reason  insid  itcan  subclass  overrid  method  in  super  class  then  , 

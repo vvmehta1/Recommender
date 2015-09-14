@@ -1,0 +1,1 @@
+ question  ,  null,  how  do  i  delay  a  while  loop  to  second  interv  without  slow  down  the  entir  code  comput  it  run  on  to  the  one  second  delay  just  the  one  littl  loop  thank  d  ,       simpleassignmentexpress  

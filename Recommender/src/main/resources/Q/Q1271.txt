@@ -1,0 +1,1 @@
+ question  ,  null,  if  i  have  a  subclass  that  has  method  ive  overridden  from  the  parent  class  and  under  veri  specif  situat  i  want  to  use  the  origin  method  how  do  i  call  those  method  ,    protectedmethodspecifi     

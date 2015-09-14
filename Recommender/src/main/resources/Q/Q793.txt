@@ -1,0 +1,1 @@
+ question  ,  arraylist  ,in  java  how  can  you  make  an  readon  so  that  no  one  can  add  element  edit  or  delet  element  after  initi  ,  simpleassignmentexpress       

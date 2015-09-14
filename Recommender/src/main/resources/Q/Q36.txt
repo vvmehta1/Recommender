@@ -1,0 +1,1 @@
+ question  ,  null,  i  ask  a  question  about  garbag  collect  in  java  in  but  the  answer  i  got  gave  me  anoth  questionsomeon  mention  that  class  can  be  collect  by  the  garbag  collector  too  is  this  trueand  if  it  is  true  how  doe  this  work  , 

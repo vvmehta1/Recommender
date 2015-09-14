@@ -1,0 +1,1 @@
+ question  ,  "text2  =  new  jtextfield(""enter  text  here""'  '8);"  ,i  am  tri  to  limit  the  max  length  of  charact  a  user  can  input  in  a  textfield  but  it  seem  to  be  not  work  here  is  the  code  is  there  anyth  i  am  do  wrong  how  can  i  make  the  limit  to  work  proper  ,    stringvari  stringdatatyp  simplevari  simpleassignmentexpress  

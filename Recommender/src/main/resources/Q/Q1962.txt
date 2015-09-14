@@ -1,0 +1,1 @@
+ question  ,  null,  id  like  to  make  a  timelin  where  you  can  view  an  overview  and  zoom  in  on  certain  portion  of  the  timelin  for  more  detailbas  i  want  what  googl  financ  has  is  there  anyth  out  there  that  can  provid  exact  that  or  at  least  get  me  closeim  use  swing  and  swingx  for  my  gui  compon  , 

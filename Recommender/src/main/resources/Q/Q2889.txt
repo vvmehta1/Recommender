@@ -1,0 +1,1 @@
+ question  ,  null,  android  has  a  lot  of  differ  facilit  of  execut  code  on  separ  thread  concurr  but  im  not  sure  when  each  one  should  be  use  or  what  the  best  practic  are  for  these  differ  wayshav  i  miss  anythank  veri  much  for  the  help  , 

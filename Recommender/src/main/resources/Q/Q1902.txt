@@ -1,0 +1,1 @@
+ question  ,  null,  i  work  on  a  softwar  that  run  in  monitor  of  differ  screen  size  from  laptop  screen  to  tv  screensi  would  you  to  know  about  java  swing  featur  that  autoadjust  the  compon  relat  accord  to  screen  size  ,       

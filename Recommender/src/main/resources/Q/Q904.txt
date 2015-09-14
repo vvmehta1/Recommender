@@ -1,0 +1,1 @@
+ question  ,  private  arraylist<integer[]>  nodelist;;  private  arraylist<integer[]>  nodelist=  new  arraylist<integer[]>();  ,if  i  declar  arraylist  like  this  then  while  ad  array  into  it  get  nullpointerexcept  but  if  i  chang  it  to  it  work  fine  whi  the  first  one  fail  ,  javautilarraylist  simplevari  simpleassignmentexpress  genericobjectcreationstat 

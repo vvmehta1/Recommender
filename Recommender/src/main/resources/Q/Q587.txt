@@ -1,0 +1,1 @@
+ question  ,  null,  is  there  a  way  to  see  all  the  refer  to  an  object  in  execut  time  im  use  netbean  this  featur  exist  in  it  edit  no  problem  in  use  profil  to  do  this  i  onli  need  know  the  refer  no  matter  how  ,          

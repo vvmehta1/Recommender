@@ -1,0 +1,1 @@
+ question  ,  null,  sinc  python  has  some  issu  with  gil  java  is  better  for  develop  multiprocess  applic  could  you  pleas  justifi  the  exact  reason  of  java  effect  process  than  python  in  your  way  ,       

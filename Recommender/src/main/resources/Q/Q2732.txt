@@ -1,0 +1,1 @@
+ question  ,  thread  t  =  new  thread(somerunnable);t.start();t.interrupt();t.join();  //does  an  interruptedexception  get  thrown  immediately  here?;  thread.join();  interrupted  ,basic  what  the  question  titl  say  from  my  own  test  it  seem  to  but  just  want  to  be  sure  im  guess  check  the  status  of  the  thread  befor  do  it  wait  routin  ,    

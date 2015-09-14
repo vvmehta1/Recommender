@@ -1,0 +1,1 @@
+ question  ,  null,  is  there  ani  perform  test  result  avail  in  compar  tradit  for  loop  vs  iter  while  travers  a  arraylisthashmap  and  other  collect  or  simpli  whi  should  i  use  iter  over  for  loop  or  vice  versa  ,    simpleassignmentexpress              simpleassignmentexpress           

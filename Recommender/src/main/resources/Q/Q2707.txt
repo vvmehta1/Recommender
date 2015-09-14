@@ -1,0 +1,1 @@
+ question  ,  null,  on  most  of  applic  server  jee  ejb  specif  forbid  creat  thread  by  hand  sinc  these  resourc  should  be  manag  by  the  serverbut  is  there  ani  way  to  get  thread  from  tomcat  glassfish  jboss  etc  thus  access  their  threadpool  ,       

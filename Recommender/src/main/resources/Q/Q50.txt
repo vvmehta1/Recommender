@@ -1,0 +1,1 @@
+ question  ,  "var  instances  =  reflection.findclass(""com.someone.myclass"").getinstances();"  ,is  it  possibl  to  get  all  instanc  of  a  class  by  enter  this  classs  name  as  a  string  someth  like  this  ani  feedback  is  appreci  thank  ,    objectvari  simplevari  simpleassignmentexpress        objectmethodinvoc     

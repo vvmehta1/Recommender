@@ -1,0 +1,1 @@
+ question  ,  "string[]  a  =  {""java""'  '  ""is""'  '  ""cool""};"  ,how  can  i  extract  all  the  element  in  a  string  or  arraylist  and  combin  all  the  word  with  proper  formatingwith  a  singl  space  between  them  and  store  in  a  array  output  java  is  cool  ,    

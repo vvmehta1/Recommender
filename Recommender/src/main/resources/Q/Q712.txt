@@ -1,0 +1,1 @@
+ question  ,  for  (foo  f  :  list)  {system.out.println(f.getvalue());};  012;  222  ,im  ad  three  differ  object  to  an  arraylist  but  the  list  contain  three  copi  of  the  last  object  i  addedfor  exampl  expect  actual  what  mistak  have  i  made  ,  foreachstat  javalangsystemoutprintln  actualmethodparamet  objectmethodinvoc  simpleassignmentexpress 

@@ -1,0 +1,1 @@
+ question  ,  null,  hey  how  do  i  make  my  java  swt  list  look  like  here  i  mean  that  each  element  is  separ  by  a  line  from  eachoth  or  i  there  ani  other  solut  to  have  a  list  like  in  the  minitun  so  i  can  add  number  etc  ,    

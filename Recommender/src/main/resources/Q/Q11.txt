@@ -1,0 +1,1 @@
+ question  ,  null,  what  is  the  purpos  of  have  more  than  one  class  in  a  java  filei  am  new  to  java  editedthat  can  again  be  achiev  by  creat  a  inner  class  insid  public  class  right  ,    javalangobject  objectvari  simplevari                             

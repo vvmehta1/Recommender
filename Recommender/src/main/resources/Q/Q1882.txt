@@ -1,0 +1,1 @@
+ question  ,  null,  i  need  to  creat  a  custom  gui  compon  about  same  like  shown  in  the  follow  imageit  has  some  button  and  label  on  this  how  can  i  creat  like  this  ,    

@@ -1,0 +1,1 @@
+ question  ,  jlabel;  jlabel  ,how  would  i  go  about  set  the  default  font  for  all  instanc  instead  of  set  the  font  for  each  independ  ,  simpleassignmentexpress    objectmethodinvoc  actualmethodparamet  simpleassignmentexpress  objectcreationstat  constructorcal  stringliter  stringdatatyp  true  

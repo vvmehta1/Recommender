@@ -1,0 +1,1 @@
+ question  ,  arraylist;  arraylist<arraylist<string>>  table  =  new  arraylist<arraylist<string>>();;  arraylist[][]  table  =  new  arraylist[10][10];//table.add??????  ,i  want  to  creat  a  d  array  that  each  cell  is  an  i  consid  this  defint  but  i  can  not  add  anyth  to  themar  these  defint  true  orpleas  help  me  ,             

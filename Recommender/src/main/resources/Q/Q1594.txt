@@ -1,0 +1,1 @@
+ question  ,  "jlabel  l  =  new  jlabel(""hello  world!blahblahblah""'  '  swingconstants.center);"  ,how  can  i  display  a  newlin  in  jlabel  for  exampl  if  i  want  this  is  what  i  have  right  now  this  is  what  is  display  forgiv  me  if  this  is  a  dumb  question  im  just  learn  some  swing  basic  ,             

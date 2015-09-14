@@ -1,0 +1,1 @@
+ question  ,  null,  from  docsbut  this  mean  that  sometim  volatil  variabl  dont  work  correctstrang  how  it  can  be  use  for  my  opinion  it  is  veri  bad  code  that  sometim  work  sometim  not  i  tri  to  googl  but  didnt  find  exampl  memori  consist  error  with  volatil  could  you  pleas  propos  one  ,    objectvari  simplevari  

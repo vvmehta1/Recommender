@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  multipl  thread  tri  to  updat  a  mysql  databas  is  executeupd  method  threadsaf  to  use  ,    

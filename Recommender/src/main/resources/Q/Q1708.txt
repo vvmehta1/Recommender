@@ -1,0 +1,1 @@
+ question  ,  null,  when  doubl  click  on  edit  cell  of  jtabl  it  shown  as  herewhat  i  need  is  if  user  click  mous  outsid  tabl  of  press  a  button  befor  enter  the  valu  then  exist  valu  should  be  auto  enter  and  output  should  be  shown  as  follow  ani  help  or  suggest  would  be  great  appreci  , 

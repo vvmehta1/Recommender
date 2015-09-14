@@ -1,0 +1,1 @@
+ question  ,  null,  after  everi  call  of  thread  it  speed  is  increas  specif  firstcirclerepaintthread  secoundcirclerepaintthread  linerepaintthread  but  the  main  thread  speed  is  normal  ive  read  question  but  my  thread  speed  is  increas  ps  sorri  for  my  bad  english  , 

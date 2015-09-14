@@ -1,0 +1,1 @@
+ question  ,  null,  i  make  a  webcrawl  and  each  thread  make  insert  of  page  and  link  constant  i  must  have  a  databas  connect  per  thread  or  share  one  connect  to  them  ,    

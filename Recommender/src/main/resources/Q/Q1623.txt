@@ -1,0 +1,1 @@
+ question  ,  jpanel  ,is  it  possibl  in  java  to  make  a  skip  draw  it  background  thus  be  transpar  except  for  the  compon  on  it  ,  simpleassignmentexpress          objectmethodinvoc  actualmethodparamet  

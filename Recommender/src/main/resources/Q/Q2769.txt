@@ -1,0 +1,1 @@
+ question  ,  null,  what  make  the  execut  order  of  thread  unpredict  doe  the  schedul  at  some  point  use  random  number  or  check  system  resourc  or  see  which  thread  has  wait  long  enough  or  ,             

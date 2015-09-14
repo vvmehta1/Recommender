@@ -1,0 +1,1 @@
+ question  ,  "run();  if(!(thread.getstate()).equals(""terminated"")){}"  ,when  doe  a  thread  reach  the  status  doe  it  get  termin  when  the  end  of  the  method  is  reach  so  what  is  the  right  way  to  check  if  a  thread  is  termin  becaus  follow  condit  seem  to  be  true  alway  for  me  ani  idea  ,    objectmethodinvoc  

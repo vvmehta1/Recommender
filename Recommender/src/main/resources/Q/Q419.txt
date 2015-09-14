@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  this  function  to  read  text  file  with  bufferedread  i  want  to  know  if  i  can  call  anoth  function  and  pass  the  readlinecontinu  to  read  text  file  if  it  can  pass  can  it  loop  the  same  function  , 

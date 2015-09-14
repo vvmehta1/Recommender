@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  use  the  tostr  method  of  arraylist  to  store  arraylist  data  into  a  stringmi  question  is  how  do  i  go  the  other  way  is  there  an  exist  method  that  will  pars  the  data  in  the  string  back  into  an  arraylist  ,          simpleassignmentexpress     simpleassignmentexpress  arrayel  stringliter  stringdatatyp  

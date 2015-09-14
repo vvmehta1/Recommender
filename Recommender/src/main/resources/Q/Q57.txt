@@ -1,0 +1,1 @@
+ question  ,  null,  at  what  point  would  you  creat  your  own  except  class  vs  use  javalangexcept  all  the  time  onli  if  it  will  be  use  outsid  the  packag  onli  if  it  must  contain  advanc  logic  etc  ,    classdefinit  interfacedefinit  methoddefinit  abstractmethoddefinit  voiddatatyp  throwsspecif              simpleassignmentexpress              

@@ -1,0 +1,1 @@
+ question  ,  null,  whi  is  threadstop  deprec  in  java  on  their  websit  i  see  the  follow  i  dont  understand  what  they  mean  by  monitor  regardless  my  question  is  if  there  no  way  to  stop  a  thread  in  java  then  how  to  stop  a  thread  what  the  best  cleanest  way  to  stop  a  thread  thank  you  , 

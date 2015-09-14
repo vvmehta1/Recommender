@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  develop  a  web  applic  use  javajspon  class  say  student  has  a  static  member  i  want  to  know  if  this  is  the  same  among  all  user  session  or  each  session  has  it  own  nextid  ,    

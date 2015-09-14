@@ -1,0 +1,1 @@
+ question  ,  null,  im  new  to  program  but  im  prepar  to  write  a  java  programa  im  plan  it  im  tri  to  find  the  right  gui  for  iti  found  page  with  gui  optionsi  have  two  question  will  these  plug  just  into  the  java  gui  builder  how  easi  or  hard  is  it  to  chang  gui  look  and  feel  after  the  program  is  built  ,          

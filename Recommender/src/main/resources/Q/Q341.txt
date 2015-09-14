@@ -1,0 +1,1 @@
+ question  ,  for  (;;)  {//some  stuff}  ,look  through  some  old  compani  code  i  came  across  a  for  loop  that  look  like  this  i  tri  googl  but  couldnt  find  ani  answer  did  i  fall  asleep  in  a  program  class  or  is  this  an  unusu  loop  ,                whilestat  true  

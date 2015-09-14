@@ -1,0 +1,1 @@
+ question  ,  null,  as  what  i  know  java  is  use  oper  system  thread  in  contrast  to  ie  erlang  that  mean  that  the  thread  creat  with  java  on  window  and  linux  may  behav  differ  are  there  ani  differ  on  java  thread  on  window  and  linux  what  is  the  biggest  differ  it  mayb  onli  a  differ  in  perform  ,       

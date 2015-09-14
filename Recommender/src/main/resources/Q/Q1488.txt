@@ -1,0 +1,1 @@
+ question  ,  null,  whi  doe  the  compil  give  an  error  messag  when  you  reduc  the  visibl  of  a  method  while  overrid  it  in  the  subclass  ,    objectvari  simplevari  simpleassignmentexpress  objectcreationstat  constructorcal  objectmethodinvoc     

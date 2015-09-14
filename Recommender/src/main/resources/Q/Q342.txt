@@ -1,0 +1,1 @@
+ question  ,  "for  (int  i  =  0;  i  <  10;  i  =  i++)  {system.err.print(""hoo...  "");}"  ,im  do  some  research  about  java  and  find  this  veri  confus  this  is  never  end  loop  anybodi  has  good  explan  whi  such  thing  happen  ,          intdatatyp  simpleassignmentexpress  forstat  lessexpress  postincrementexpress  

@@ -1,0 +1,1 @@
+ question  ,  "for  (char  c  :  ""xyz"");  myclass.java:20:  foreach  not  applicable  to  expression  type"  ,so  i  want  to  iter  for  each  charact  in  a  string  so  i  thought  but  i  get  a  compil  error  how  can  i  do  this  ,          

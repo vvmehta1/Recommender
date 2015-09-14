@@ -1,0 +1,1 @@
+ question  ,  null;  t.start();t  =  null;  ,after  a  thread  start  if  the  refer  of  the  thread  is  set  to  what  will  happen  to  the  threaddo  it  stop  is  it  elig  for  gc  like  this  ,  objectmethodinvoc  simpleassignmentexpress    

@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  creat  a  scatter  plot  graph  use  jfreechart  sometim  i  onli  have  a  few  point  and  the  dot  are  so  small  they  are  almost  invis  doe  anyon  know  how  to  increas  the  size  of  the  dotssorri  if  this  seem  trivial  i  am  new  to  jfreechart  thank  ,    

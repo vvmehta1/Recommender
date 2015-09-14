@@ -1,0 +1,1 @@
+ question  ,  null,  when  design  a  collect  class  is  there  ani  reason  not  to  implement  lock  privat  to  make  it  thread  safe  or  should  i  leav  that  respons  up  to  the  consum  of  the  collect  ,       intdatatyp  simplevari  greaterexpress  simpleassignmentexpress  ifstat  constantinvoc  returnstat  arrayel                                            

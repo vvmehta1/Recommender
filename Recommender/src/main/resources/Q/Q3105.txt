@@ -1,0 +1,1 @@
+ question  ,  java.util.date  ,as  far  as  i  know  that  is  mutabl  so  it  not  threadsaf  if  multipl  thread  tri  to  access  and  modifi  it  how  do  we  use  clientsid  lock  or  composit  wrapper  to  make  it  threadsaf  ,  simpleassignmentexpress    longdatatyp  simplevari  addassignmentexpress  simpleassignmentexpress  addexpress        

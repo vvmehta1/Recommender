@@ -1,0 +1,1 @@
+ question  ,  null,  java  doesnt  allow  multipl  inherit  but  it  allow  implement  multipl  interfac  whi  ,       simpleassignmentexpress                 

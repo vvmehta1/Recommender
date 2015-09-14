@@ -1,0 +1,1 @@
+ question  ,  thread.interrupt()  ,when  an  is  call  on  some  thread  what  happen  to  that  thread  ,  objectmethodinvoc          

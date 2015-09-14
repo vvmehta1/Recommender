@@ -1,0 +1,1 @@
+ question  ,  null,  initi  i  thought  a  volatil  variabl  was  better  than  synchron  keyword  as  it  did  not  involv  block  or  context  switch  but  read  i  am  now  confus  is  volatil  implement  in  a  nonblock  approach  use  low  level  atom  lock  or  no  ,          objectvari  simplevari  

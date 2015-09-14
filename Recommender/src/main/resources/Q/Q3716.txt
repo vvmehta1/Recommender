@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  an  applic  which  are  multi  thread  i  notic  some  exist  code  use  volatil  when  the  variabl  is  share  by  sever  thread  whi  not  just  use  synchron  in  the  method  when  variabl  is  use  what  the  benefit  to  defin  variabl  as  volatil  ,             

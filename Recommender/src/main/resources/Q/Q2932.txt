@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  to  creat  a  thread  safe  jsp  page  it  is  possibl  in  servlet  by  implement  singlethreadmodel  interfac  but  i  dont  know  how  to  do  it  in  jsp  page  ,          simpleassignmentexpress        simpleassignmentexpress  

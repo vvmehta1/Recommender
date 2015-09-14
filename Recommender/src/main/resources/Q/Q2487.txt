@@ -1,0 +1,1 @@
+ question  ,  null,  id  like  to  creat  a  thread  that  keep  track  of  the  memori  usag  and  cpu  usag  if  the  applic  reach  a  high  level  i  want  to  generat  an  heap  dump  or  a  thread  dump  is  there  a  way  to  generat  a  thread  dump  runtim  without  restart  ,          

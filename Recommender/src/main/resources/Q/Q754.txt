@@ -1,0 +1,1 @@
+ question  ,  null,  what  is  the  reason  whi  we  cannot  alway  use  a  hashmap  even  though  it  is  much  more  effici  than  arraylist  or  linkedlist  in  addremov  oper  also  irrespect  of  the  number  of  the  element  i  googl  it  and  found  some  reason  but  there  was  alway  a  workaround  for  use  hashmap  with  advantag  still  aliv  ,    

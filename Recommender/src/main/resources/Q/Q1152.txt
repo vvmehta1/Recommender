@@ -1,0 +1,1 @@
+ question  ,  null,  is  there  a  method  in  java  to  get  the  list  of  object  from  an  arraylist  to  anoth  arraylist  by  just  specifi  the  start  and  end  index  ,    intdatatyp  simplevari  objectvari  throwstat  subtractexpress  divideexpress  simpleassignmentexpress  objectmethodinvoc  actualmethodparamet  

@@ -1,0 +1,1 @@
+ question  ,  public  synchronized  void  addition(){  //something;};  public  void  addtion(){  synchronized  (//something)  {//something;  }}  ,what  is  the  differ  betweenandif  i  am  wrong  ignor  this  question  ,  synchronizedmethodspecifi    simpleassignmentexpress           synchronizedmethodspecifi        synchronizedmethodspecifi  

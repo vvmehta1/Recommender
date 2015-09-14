@@ -1,0 +1,1 @@
+ question  ,  static  method  ,the  java  tutori  say  it  is  not  possibl  for  two  invoc  of  synchron  method  on  the  same  object  to  interleav  what  doe  this  mean  for  asinc  a  static  method  has  no  associ  object  will  the  synchron  keyword  lock  on  the  class  instead  of  the  object  , 

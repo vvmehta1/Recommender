@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  to  build  a  small  product  in  which  i  want  to  give  a  kind  of  featur  in  which  user  can  write  a  script  languag  kind  of  javascript  and  also  from  javascript  abl  to  build  object  and  call  method  on  them  is  there  ani  framework  for  this  ,                

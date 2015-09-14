@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  a  worker  thread  that  creat  a  runnabl  object  and  call  runonuithread  on  it  becaus  it  deal  with  view  and  control  id  like  to  use  the  result  of  the  work  of  the  runnabl  object  right  away  how  do  i  wait  for  it  to  finish  it  doesnt  bother  me  if  it  block  ,          

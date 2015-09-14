@@ -1,0 +1,1 @@
+ question  ,  null,  i  would  like  to  test  how  mani  byte  an  object  refer  use  in  the  java  vm  that  im  usingdo  you  guy  know  how  to  test  this  thank  ,          

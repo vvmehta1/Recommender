@@ -1,0 +1,1 @@
+ question  ,  executors.newsinglethreadexecutor().execute(command);  new  thread(command).start();  ,well  titl  say  it  what  is  the  differ  between  and  ,  objectmethodinvoc  actualmethodparamet  objectcreationstat  constructorcal 

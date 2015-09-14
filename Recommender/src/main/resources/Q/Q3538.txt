@@ -1,0 +1,1 @@
+ question  ,  null,  i  start  one  thread  to  download  content  from  the  internet  at  one  time  the  thread  is  download  one  file  and  then  i  want  it  stop  and  begin  to  download  anoth  file  what  should  i  do  should  i  count  on  the  concurr  mechanismin  java  ,    simpleassignmentexpress     objectvari  simplevari     

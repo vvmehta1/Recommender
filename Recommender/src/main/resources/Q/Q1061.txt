@@ -1,0 +1,1 @@
+ question  ,  null,  ive  look  around  but  i  cant  seem  to  find  an  api  call  that  doe  the  follow  i  need  to  merg  all  arraylist  in  an  arraylist  to  form  one  arraylist  with  all  the  element  from  all  the  subarraylist  if  that  make  sens  here  an  exampl  it  a  small  world  after  all  becom  it  a  small  world  after  all  ,    

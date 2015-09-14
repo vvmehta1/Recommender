@@ -1,0 +1,1 @@
+ question  ,  wait();  notify();  object;  thread  ,whi  are  the  and  method  declar  in  the  class  rather  than  the  class  ,  simpleassignmentexpress       objectmethodinvoc           objectmethodinvoc  objectvari  simplevari     

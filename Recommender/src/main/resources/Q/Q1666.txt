@@ -1,0 +1,1 @@
+ question  ,  null,  what  is  the  best  way  to  do  gui  in  is  there  an  exampl  of  some  function  or  wrapperor  some  integr  with  declar  gui  descript  which  could  be  easili  wrap  to  use  some  macrolog  ani  tutori  ,          formalmethodparamet                             

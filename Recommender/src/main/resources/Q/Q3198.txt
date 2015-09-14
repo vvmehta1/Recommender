@@ -1,0 +1,1 @@
+ question  ,  main;  main  ,when  doe  a  typic  java  app  finish  if  i  start  a  new  thread  in  the  method  and  then  the  method  finish  but  the  other  thread  continu  work  the  app  would  still  be  on  until  all  it  thread  have  die  wouldnt  it  thank  merri  christma  ,  simpleassignmentexpress    

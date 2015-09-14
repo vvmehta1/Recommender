@@ -1,0 +1,1 @@
+ question  ,  null,  in  java  an  array  is  an  object  my  question  is  is  an  object  constructor  call  when  new  array  is  be  creat  we  would  like  to  use  this  fact  to  instrument  object  constructor  with  some  extra  bytecod  which  check  length  of  array  be  construct  would  that  work  ,             

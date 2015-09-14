@@ -1,0 +1,1 @@
+ question  ,  null,  im  write  a  programm  in  which  i  need  to  generat  a  diff  and  display  the  result  is  there  ani  gui  compon  out  there  with  which  i  can  easili  accomplish  this  task  or  do  i  need  to  hack  someth  for  myself  id  prefer  use  a  swing  compon  but  ani  other  technolog  will  be  fine  too  ,       simpleassignmentexpress        

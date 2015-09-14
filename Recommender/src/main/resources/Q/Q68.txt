@@ -1,0 +1,1 @@
+ question  ,  "class<?>  c  =  getclassbyname(""testactivity"");"  ,if  i  have  an  activ  class  call  testact  in  my  applic  is  there  a  way  to  get  it  class  by  it  name  like  in  this  exampl  , 

@@ -1,0 +1,1 @@
+ question  ,  "synchronized(  mutex  ){throw  new  exception(  """"  );}"  ,if  i  have  a  synchron  block  and  somewher  insid  that  block  an  except  is  thrown  that  is  not  caught  within  the  synchron  block  would  the  lock  be  relinquish  when  the  except  propag  out  of  itth  synchron  block  ,       

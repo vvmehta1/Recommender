@@ -1,0 +1,1 @@
+ question  ,  null,  what  are  the  differ  between  these  two  data  structur  and  where  should  you  use  each  of  them  ,    objectvari  javautilarraylist  simplevari  simpleassignmentexpress     objectvari  javautilarraylist  simplevari  simpleassignmentexpress     objectvari  javautilarraylist  simplevari  simpleassignmentexpress        

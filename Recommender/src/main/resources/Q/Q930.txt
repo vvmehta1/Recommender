@@ -1,0 +1,1 @@
+ question  ,  null,  what  data  structur  doe  an  arraylist  use  intern  ,    simpleassignmentexpress        intdatatyp  simplevari  arraydatatyp     simpleassignmentexpress     simpleassignmentexpress  arraydatatyp  privatefieldspecifi  transientfieldspecifi  instancefield  javautilarraylist  simplevari     simpleassignmentexpress  

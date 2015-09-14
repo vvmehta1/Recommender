@@ -1,0 +1,1 @@
+ question  ,  bufferedimage;  jframe;  buffered  image  ,i  have  a  array  of  imag  store  in  a  array  i  want  to  display  these  imag  in  a  in  a  tabl  like  layout  how  can  i  do  so  note  the  number  of  imag  in  the  array  is  dynam  ,  objectvari  simplevari    objectvari  simplevari  simpleassignmentexpress     

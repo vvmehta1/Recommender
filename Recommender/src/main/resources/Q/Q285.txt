@@ -1,0 +1,1 @@
+ question  ,  null,  hi  i  have  a  main  jframe  that  call  a  classa  and  that  class  call  anoth  class  b  in  class  b  i  need  a  refrenc  to  main  jframe  how  to  find  that  thank  ,       

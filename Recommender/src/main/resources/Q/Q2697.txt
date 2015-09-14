@@ -1,0 +1,1 @@
+ question  ,  null,  do  you  happen  to  know  explan  whi  java  secur  manag  doesnt  forbid  creat  new  thread  or  start  them  new  filewrit  is  under  secur  manag  but  neither  new  thread  nor  threadinstancestart  isnt  uned  secur  manag  and  are  possibl  to  call  , 

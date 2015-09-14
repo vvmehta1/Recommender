@@ -1,0 +1,1 @@
+ question  ,  synchronize  (lock)  {...  };  java.util.concurrent.locks.lock;  lock;lock.lock();  try  {  ...  }  finally  {  lock.unlock();  }  ,i  was  wonder  ifwher  lock  is  an  instanc  of  treatslik  ani  other  object  or  as  the  tryfin  idiom  ie  ,  actualmethodparamet  objectvari  simplevari  objectmethodinvoc  trycatchstat       

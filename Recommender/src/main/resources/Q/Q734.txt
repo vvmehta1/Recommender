@@ -1,0 +1,1 @@
+ question  ,  "string[]  names  =  new  string[]  {""ryan""'  '  ""julie""'  '  ""bob""};;  array.add()"  ,i  am  awar  that  you  can  initi  an  array  dure  instanti  as  follow  is  there  a  way  to  do  the  same  thing  with  an  arraylist  or  must  i  add  the  content  individu  with  , 

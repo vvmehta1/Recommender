@@ -1,0 +1,1 @@
+ question  ,  public  class  joe  {public  int  a;protected  int  b;private  int  b;int  c;}  ,what  is  the  differ  in  the  access  of  the  follow  variabl  in  java  im  most  interest  in  what  the  last  one  is  do  ,  classdefinit  publicclassspecifi  publicfieldspecifi  instancefield  intdatatyp  simplevari  protectedfieldspecifi  privatefieldspecifi          

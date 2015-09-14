@@ -1,0 +1,1 @@
+ question  ,  system.out.println(toolkit.getdefaulttoolkit().getscreensize());;  java.awt.dimension[width=2960'  'height=1050]  ,i  have  two  differents  monitor  connect  togeth  use  i  believ  twinview  i  tri  and  get  which  is  true  if  you  count  both  monitor  instead  of  this  i  would  like  to  be  abl  achiev  of  the  follow  , 

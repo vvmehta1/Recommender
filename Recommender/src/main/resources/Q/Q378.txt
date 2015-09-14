@@ -1,0 +1,1 @@
+ question  ,  "<c:foreach  items=""${myparams.items}""  var=""currentitem""  varstatus=""stat""><c:set  var=""myvar""  value=""<c:out  var=""myvar""  />""  /></c:foreach>"  ,i  want  to  concaten  the  valu  of  currentitemmyvar  and  output  it  at  the  end  of  the  loop  problem  is  i  cant  figur  out  how  to  do  this  prefer  not  use  java  ,    

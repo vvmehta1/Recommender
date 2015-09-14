@@ -1,0 +1,1 @@
+ question  ,  object;  final  ,see  this  it  say  what  wrong  with  lock  on  a  mutabl  field  what  if  was  declar  as  but  was  not  an  immut  class  ,       

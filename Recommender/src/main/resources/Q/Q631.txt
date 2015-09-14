@@ -1,0 +1,1 @@
+ question  ,  null,  i  tri  to  serial  an  object  that  contain  an  other  object  which  is  itself  serializ  is  there  a  way  to  make  it  work  the  pointer  to  the  other  object  seem  to  be  lost  when  i  serial  the  first  object  ,                

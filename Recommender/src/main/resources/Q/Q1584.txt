@@ -1,0 +1,1 @@
+ question  ,  null,  in  dialog  i  need  to  display  one  group  of  control  if  some  combo  is  check  and  anoth  group  of  control  otherwisei  i  need  layer  andi  need  to  switch  between  them  when  combo  is  checkeduncheck  how  can  i  do  that  thank  , 

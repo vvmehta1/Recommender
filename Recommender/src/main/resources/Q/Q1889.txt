@@ -1,0 +1,1 @@
+ question  ,  null,  is  there  a  way  to  adjust  the  thick  of  the  scrollbar  within  a  jscrollpan  the  default  is  kind  of  clunki  ,    

@@ -1,0 +1,1 @@
+ question  ,  null,  how  doe  java  decid  which  core  to  assign  a  thread  or  a  process  is  there  ani  way  to  control  that  to  prevent  two  larg  thread  from  execut  on  the  same  core  basic  what  i  am  ask  is  for  further  inform  on  either  how  multithread  work  in  java  or  how  to  control  it  within  java  ,          

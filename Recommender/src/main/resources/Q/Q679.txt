@@ -1,0 +1,1 @@
+ question  ,  myspecialclass;  attri1;  attri2;  value1;  value2;  myspecialclass;  attri1;  attri2;  dont't;  myspecialclass  ,for  exampl  i  have  a  json  format  like  this  i  would  like  to  creat  a  object  which  is  a  object  and  get  two  attribut  and  with  the  valu  of  andher  is  the  requir  ,  objectvari  simplevari       

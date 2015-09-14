@@ -1,0 +1,1 @@
+ question  ,  outputstream;  socket;  inputstream  ,is  it  possibl  to  have  one  thread  write  to  the  of  a  java  while  anoth  read  from  the  socket  without  the  thread  have  to  synchron  on  the  socket  ,  objectvari  simplevari  simpleassignmentexpress       

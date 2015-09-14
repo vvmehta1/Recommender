@@ -1,0 +1,1 @@
+ question  ,  object.getitems()  ==  null;  null  ==  object.getitems()  ,hi  i  would  like  to  know  diff  between  the  abov  comparison  i  am  get  null  pointer  except  when  i  checkbut  if  i  chang  it  to  it  work  fine  i  did  look  into  thisbut  i  didnt  get  satisfactori  answer  ,  objectmethodinvoc  simpleassignmentexpress 

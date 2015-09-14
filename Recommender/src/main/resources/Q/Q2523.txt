@@ -1,0 +1,1 @@
+ question  ,  null,  is  a  volatil  int  in  java  thread  safe  as  in  be  abl  to  be  safe  read  from  and  written  to  without  lock  ,       

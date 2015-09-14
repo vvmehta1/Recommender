@@ -1,0 +1,1 @@
+ question  ,  null,  whenev  a  class  is  load  what  are  store  in  the  heap  and  what  are  store  in  the  stack  also  where  doe  the  thread  resid  ,          

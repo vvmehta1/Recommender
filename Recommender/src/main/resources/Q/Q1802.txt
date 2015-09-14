@@ -1,0 +1,1 @@
+ question  ,  null,  basic  it  a  client  program  with  a  gui  so  i  want  to  close  the  socket  when  the  user  close  the  client  program  is  there  is  listen  or  someth  that  will  allow  me  to  do  this  ,       classdefinit  extendsspecif  constructordefinit  publicconstructorspecifi  

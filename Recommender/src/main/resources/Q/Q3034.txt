@@ -1,0 +1,1 @@
+ question  ,  null,  what  happen  when  a  static  synchron  method  is  call  by  two  thread  use  differ  instanc  at  the  same  time  is  it  possibl  the  object  lock  is  use  for  non  static  synchron  method  but  what  type  lock  is  use  for  static  synchron  method  ,    simpleassignmentexpress     

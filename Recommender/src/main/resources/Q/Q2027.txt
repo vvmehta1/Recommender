@@ -1,0 +1,1 @@
+ question  ,  ----------------------|a||  b  ||c  |------------------------------||||  ||||||;----------------------  |a||  b  ||c  |------------------------------||||  ||||||  ,when  use  a  jtabbedpan  how  do  you  indent  the  tab  swing  default  output  desir  indent  output  this  seem  simpl  enough  but  i  have  not  been  abl  to  find  the  solutionthank  ,    

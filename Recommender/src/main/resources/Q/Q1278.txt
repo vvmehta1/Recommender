@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  heard  there  is  a  way  to  cheat  singl  inherit  and  implement  multipl  inherit  in  java  doe  anyon  know  how  to  implement  thiswith  out  use  interfac  just  out  of  curios  ,                                  

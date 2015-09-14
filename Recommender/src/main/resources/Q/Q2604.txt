@@ -1,0 +1,1 @@
+ question  ,  null,  executor  seem  like  a  clean  abstract  when  would  you  want  to  use  thread  direct  rather  than  reli  on  the  more  robust  executor  ,       objectvari  simplevari  simpleassignmentexpress           

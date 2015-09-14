@@ -1,0 +1,1 @@
+ question  ,  finalize();  finalize();  super.finalize()  ,i  read  somewher  that  for  a  parent  class  is  not  guarante  to  be  call  when  the  subclass  is  garbagecollect  doe  this  mean  most  develop  overrid  in  the  subclass  and  call  ,  superclassmethodcal  superrefer    

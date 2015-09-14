@@ -1,0 +1,1 @@
+ question  ,  null,  when  i  run  multipl  junit  test  in  a  row  doe  junit  creat  a  new  thread  for  each  execut  or  everyth  is  wrap  in  a  singl  thread  thank  , 

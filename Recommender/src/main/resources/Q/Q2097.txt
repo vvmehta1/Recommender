@@ -1,0 +1,1 @@
+ question  ,  "list<bufferedimage>  bi  =  icodecoder.read(""aimage.ico"");;  myframe.seticonimage((image)bi);"  ,i  have  the  follow  ico  imag  read  use  imagej  librari  next  i  want  to  set  this  imag  as  a  frame  icon  i  need  to  convert  the  type  listbufferedimag  to  the  type  imag  ani  help  would  be  appreci  ,    

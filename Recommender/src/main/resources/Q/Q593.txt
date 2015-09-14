@@ -1,0 +1,1 @@
+ question  ,  "public  string  xyz  =  ""aaaa_bbb"";getobject(""xyz"").some  function  of  string  (e.g.:  .split(""_""))"  ,is  it  possibl  to  get  a  object  that  is  instanc  in  the  code  by  a  string  at  runtim  somth  like  that  thank  ,          simpleassignmentexpress     

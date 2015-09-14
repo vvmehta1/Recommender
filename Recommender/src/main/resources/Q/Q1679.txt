@@ -1,0 +1,1 @@
+ question  ,  setdefaultcloseoperation  ,i  want  to  make  my  java  applic  to  call  my  own  custom  made  function  when  the  close  cross  button  is  press  as  far  as  i  see  there  may  be  no  way  sinc  has  no  overload  at  all  ani  idea  how  this  can  be  achiev  ,  simpleassignmentexpress 

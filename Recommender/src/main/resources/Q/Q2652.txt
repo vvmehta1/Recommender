@@ -1,0 +1,1 @@
+ question  ,  null,  as  the  question  titl  itself  say  what  is  the  differ  between  executor  and  executorcompletionservic  class  in  java  i  am  new  to  the  threadingso  if  ani  one  can  explain  with  a  piec  of  code  that  would  help  a  lot  ,    simpleassignmentexpress  

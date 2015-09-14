@@ -1,0 +1,1 @@
+ question  ,  null,  im  get  confus  about  when  the  instanc  initi  block  should  runaccord  to  kathi  sierra  book  so  consid  have  two  class  a  parent  and  a  child  accord  to  and  java  documentationaccord  to  the  abov  it  isnt  like  that  a  new  object  of  the  superclass  is  instanti  ,       superclassconstructorcal  

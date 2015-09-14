@@ -1,0 +1,1 @@
+ question  ,  "public  class  testframe  extends  jframe{public  testframe()  {jlabel  label  =  new  jlabel(""jo"");getcontentpane().add(label);add(label);}}"  ,doe  getcontentpaneadd  mean  the  same  as  add  ,    simpleassignmentexpress     objectvari  simplevari  objectmethodinvoc  

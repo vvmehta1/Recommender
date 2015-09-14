@@ -1,0 +1,1 @@
+ question  ,  null,  out  of  curios  whi  are  sometim  multipl  java  class  file  generat  for  a  class  after  compil  for  exampl  my  applic  has  six  class  for  one  class  a  total  of  class  file  has  been  generat  start  from  myclass  up  to  myclass  ,    classdefinit           

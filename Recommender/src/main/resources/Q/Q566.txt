@@ -1,0 +1,1 @@
+ question  ,  outer  class  {inner  class{  }public  void  createo()  {outer.inner  ob  =  new  inner  ();//that  worksinner.class.newinstance();  //<--why  does  this  not  compile?  }}  ,how  do  you  creat  an  inner  class  object  with  reflect  both  inner  and  outer  class  have  default  constructor  that  take  no  paramet  , 

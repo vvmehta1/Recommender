@@ -1,0 +1,1 @@
+ question  ,  null,  i  need  to  dump  all  the  attribut  of  a  java  object  i  have  found  a  few  function  that  do  this  but  none  of  them  handl  self  refer  and  all  of  the  function  i  have  found  spiral  into  infinit  recurs  i  will  be  run  this  function  on  android  but  that  shouldnt  realli  matter  , 

@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  to  put  custom  border  around  zxing  captur  screen  camera  screenwhat  modif  would  i  need  to  make  for  thiswhich  activ  and  layout  would  i  need  to  chang  to  have  this  effect  ,    

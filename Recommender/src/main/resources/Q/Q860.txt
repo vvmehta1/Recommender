@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  receiv  xml  and  need  to  convert  to  either  a  primit  array  or  arraylisti  there  much  differ  in  term  of  perform  in  term  of  memori  and  garbag  collectionmi  applic  will  be  creat  thousand  of  these  object  everi  second  and  i  need  to  minim  gc  as  i  need  realtim  perform  thxs  ,       

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="
+	http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/aop 
+	http://www.springframework.org/schema/aop/spring-aop-4.0.xsd
+	http://www.springframework.org/schema/tx 
+	http://www.springframework.org/schema/tx/spring-tx-4.0.xsd">
+
+	<bean
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+ 
+		<property name="location">
+			<value>database.properties</value>
+		</property>
+	</bean>
+
+
+	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
+		destroy-method="close">
+		<property name="driverClassName" value="${jdbc.driverClassName}" />
+		<property name="url" value="${jdbc.url}" />
+		<property name="username" value="${jdbc.username}" />
+		<property name="password" value="${jdbc.password}" />
+		<property name="maxActive" value="15" />
+        <property name="maxWait" value="5000" />
+        <property name="maxIdle" value="1" />
+	</bean>
+
+	<bean id="PropertiesFile" class="com.support.docs.PropertiesFile" scope="singleton">
+		<property name="baseUrl" value="${base.location}" />
+		<property name="indexC" value="${base.IndexC}" />
+		<property name="indexT" value="${base.IndexT}" />
+		<property name="Ans" value="${base.A}" />
+		<property name="Que" value="${base.Q}" />
+		<property name="Docs" value="${base.doc}" />
+		<property name="StemDocs" value="${base.StemmedDocs}" />
+		<property name="conceptcount_file" value="${base.File1}" />
+		<property name="stackoverflow_concepts_file" value="${base.File2}" />
+		<property name="user_response_locationstore" value="${base.response}" />
+	</bean>
+
+<!-- Hibernate 3 XML SessionFactory Bean definition-->
+<!-- 	<bean id="hibernate3SessionFactory"
+		class="org.springframework.orm.hibernate3.LocalSessionFactoryBean">
+		<property name="dataSource" ref="dataSource" />
+		<property name="mappingResources">
+			<list>
+				<value>person.hbm.xml</value>
+			</list>
+		</property>
+		<property name="hibernateProperties">
+			<value>
+				hibernate.dialect=org.hibernate.dialect.MySQLDialect
+			</value>
+		</property>
+	</bean> -->
+
+<!-- Hibernate 3 Annotation SessionFactory Bean definition-->
+	<bean id="hibernate3AnnotatedSessionFactory"
+		class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<property name="dataSource" ref="dataSource" />
+		<property name="annotatedClasses">
+			<list>
+				<value>com.recommender.common.model.Answer_List</value>
+				<value>com.recommender.common.model.Question_List</value>
+			</list>
+		</property>
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">org.hibernate.dialect.MySQLDialect</prop>
+				<prop key="hibernate.current_session_context_class">thread</prop>
+				<prop key="hibernate.show_sql">false</prop>
+			</props>
+		</property>
+	</bean>
+	
+	<bean id="answerListDAO" class="com.recommender.common.dao.AnswerListDAOImpl">
+		<property name="sessionFactory" ref="hibernate3AnnotatedSessionFactory" />
+	</bean>
+	
+	<bean id="questionListDAO" class="com.recommender.common.dao.QuestionListDAOImpl">
+		<property name="sessionFactory" ref="hibernate3AnnotatedSessionFactory" />
+	</bean>
+	
+</beans>

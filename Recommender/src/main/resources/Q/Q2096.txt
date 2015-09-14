@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  tring  to  hide  a  jframe  when  a  jdialog  box  open  pleas  how  doi  do  this  usu  the  addactionlisten  , 

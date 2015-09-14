@@ -1,0 +1,1 @@
+ question  ,  null,  how  do  i  recurs  disabl  all  of  my  compon  in  a  jpanel  , 

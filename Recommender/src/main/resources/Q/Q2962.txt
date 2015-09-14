@@ -1,0 +1,1 @@
+ question  ,  null,  can  ani  one  explain  the  statement  static  synchron  method  and  non  static  synchron  method  will  not  block  each  other  they  can  run  at  the  same  time  ,    

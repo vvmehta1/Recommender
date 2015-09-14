@@ -1,0 +1,1 @@
+ question  ,  arraylist;  o(n);  o(1)  ,is  an  array  or  a  list  in  java  what  is  the  time  complex  for  the  get  oper  is  it  or  ,  actualmethodparamet          

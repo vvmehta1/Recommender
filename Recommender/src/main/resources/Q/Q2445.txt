@@ -1,0 +1,1 @@
+ question  ,  null,  im  hope  someon  can  provid  some  insight  as  to  what  fundament  differ  about  the  java  virtual  machin  that  allow  it  to  implement  thread  nice  without  the  need  for  a  global  interpret  lock  gil  while  python  necessit  such  an  evil  ,       

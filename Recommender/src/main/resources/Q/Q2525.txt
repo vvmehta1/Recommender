@@ -1,0 +1,1 @@
+ question  ,  long  x;x=  0xffffffffl;  ,if  i  have  code  like  this  if  i  run  this  code  on  a  bit  machin  is  it  guarante  to  be  atom  or  is  it  possibl  that  a  differ  thread  read  x  might  get  an  incompletegarbag  valu  ,  longdatatyp  simplevari  simpleassignmentexpress          

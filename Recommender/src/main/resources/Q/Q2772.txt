@@ -1,0 +1,1 @@
+ question  ,  null,  doe  a  variabl  that  is  access  by  multipl  thread  but  onli  insid  synchron  block  need  the  volatil  modifi  if  not  whi  ,       

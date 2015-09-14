@@ -1,0 +1,1 @@
+ question  ,  @fxml  private  hbox  minbtn;;  public  void  initialize(url'  '  resourcebundle);  seticonified(boolean)  ,how  can  i  assign  a  handler  to  minimizeiconifi  app  to  a  custom  button  made  with  shape  button  from  control  method  method  is  in  stage  class  and  i  cant  get  him  in  my  control  class  , 

@@ -1,0 +1,1 @@
+ question  ,  concurrenthashmap;  multithreading;  concurrentskiplistmap  ,in  java  is  there  for  better  solut  then  when  should  i  use  is  it  a  redund  doe  multithread  aspect  between  these  two  are  common  ,  objectvari  simplevari  simpleassignmentexpress    

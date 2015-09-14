@@ -1,0 +1,1 @@
+ question  ,  class  someclass  {//--snip--private  final  void  dostuff(){//  private  work  here}};  final  ,im  wonder  whi  this  is  okay  if  it  privat  there  no  way  anyon  can  overrid  it  right  whi  is  it  possibl  to  add  keyword  if  it  has  no  effect  or  am  i  miss  someth  ,  classdefinit    

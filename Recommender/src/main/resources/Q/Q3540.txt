@@ -1,0 +1,1 @@
+ question  ,  null,  ive  a  current  problem  ive  a  app  and  want  to  put  the  main  thread  to  sleep  for  ms  show  a  i  can  show  a  progressdialog  and  i  dont  know  how  to  do  it  it  possibl  to  stop  an  app  main  thread  i  can  achiev  the  same  goal  use  anoth  thread  right  ,          objectmethodinvoc  actualmethodparamet  

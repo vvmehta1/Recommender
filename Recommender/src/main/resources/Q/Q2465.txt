@@ -1,0 +1,1 @@
+ question  ,  null,  for  a  travel  book  web  applic  where  there  are  concurr  user  log  inshould  ticket  book  and  generat  an  eticket  number  be  implement  by  a  synchron  or  a  static  synchron  method  ,    privatefieldspecifi  staticfieldspecifi  finalfieldspecifi  classfield  simplevari  

@@ -1,0 +1,1 @@
+ question  ,  static  volatile  boolean  first=false;  ,can  i  declar  someth  like  this  ,  booleandatatyp  simpleassignmentexpress  fals       

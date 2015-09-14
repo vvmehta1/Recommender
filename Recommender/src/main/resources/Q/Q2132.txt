@@ -1,0 +1,1 @@
+ question  ,  null,  what  is  the  best  way  to  handl  gui  intern  applic  communic  i  have  mani  under  thread  process  data  and  would  like  to  post  their  output  to  the  gui  should  i  have  some  kind  of  handler  object  that  is  own  by  all  my  runnabl  and  then  have  them  post  to  it  so  it  can  handl  the  output  to  the  gui  ,    

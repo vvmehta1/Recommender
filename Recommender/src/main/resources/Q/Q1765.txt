@@ -1,0 +1,1 @@
+ question  ,  actionlistener;  action;  actionlistener  ,myself  i  alway  use  as  swing  eventhandl  eg  buttonclick  and  it  is  the  most  common  listen  ive  seen  in  most  swing  applic  howev  some  swing  profession  here  in  stackoverflow  often  advis  to  use  rather  than  what  benefit  i  get  from  do  so  ,  objectvari  simplevari  simpleassignmentexpress 

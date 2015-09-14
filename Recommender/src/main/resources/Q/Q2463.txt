@@ -1,0 +1,1 @@
+ question  ,  null,  im  rework  a  java  execut  that  may  be  start  multipl  time  and  i  want  the  process  to  proceed  one  at  a  timein  c  i  would  do  this  with  a  namedsystem  but  this  doesnt  seem  to  be  possibl  in  javahow  can  i  achiev  this  function  ,             

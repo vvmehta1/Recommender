@@ -1,0 +1,1 @@
+ question  ,  arraylist<string[]>  results  =  new  arraylist<string[]>();string  []  columns  =  {a  few  strings};jtable  table  =  new  jtable(results.toarray()'  '  columns);  ,how  in  java  do  i  convert  an  arraylist  of  array  to  a  twodimension  array  exampl  i  get  the  error  that  jtableobject  object  is  not  defin  ,    objectmethodinvoc  

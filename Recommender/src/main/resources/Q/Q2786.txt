@@ -1,0 +1,1 @@
+ question  ,  null,  is  a  static  member  of  a  class  present  as  onli  a  singl  instanc  per  process  or  threadmean  each  thread  has  it  own  copi  of  the  static  member  variabl  of  the  class  my  guess  is  per  process  am  i  correct  ,                   

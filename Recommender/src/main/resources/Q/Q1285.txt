@@ -1,0 +1,1 @@
+ question  ,  null,  class  b  inherit  class  a  now  when  we  creat  an  object  of  type  b  what  is  the  memori  alloc  for  b  is  it  includ  a  and  b  or  ani  other  procedur  for  memori  alloc  ,       objectcreationstat  constructorcal  

@@ -1,0 +1,1 @@
+ question  ,  null,  q  in  a  multithread  applic  is  there  a  limit  to  how  mani  thread  an  applic  may  spawn  if  such  a  limit  exist  doe  the  jvm  termin  the  applic  and  with  what  error  code  if  an  applic  spawn  in  veri  rapid  sucsess  would  the  jvm  detect  that  as  a  rough  applicationthank  in  advanc  ,             

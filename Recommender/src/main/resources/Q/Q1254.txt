@@ -1,0 +1,1 @@
+ question  ,  list<parent>  mylist  =  arraylist<child>();  ,whi  we  cant  do  ,  simplevari    objectvari  simplevari  simpleassignmentexpress  lessexpress  greaterexpress  

@@ -1,0 +1,1 @@
+ question  ,  null,  i  know  the  advantag  of  inherit  in  java  but  it  is  somewhat  difficult  for  me  to  accept  that  it  has  disadvantag  too  can  anybodi  give  me  a  bad  exampl  of  inherit  in  java  ,             

@@ -1,0 +1,1 @@
+ question  ,  null,  so  i  want  an  array  with  volatil  boolean  not  a  volatil  array  with  boolean  it  probabl  doe  not  even  make  sens  to  have  a  volatil  array  refer  correct  me  if  i  am  wrong  ,    simpleassignmentexpress  

@@ -1,0 +1,1 @@
+ question  ,  null,  if  we  store  object  in  static  field  of  an  object  how  doe  the  jvm  alloc  the  memori  for  it  doe  it  live  within  implicitnot  sure  if  i  am  use  the  right  word  class  object  how  are  static  field  differ  from  object  field  ,             

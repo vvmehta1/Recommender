@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  to  make  a  javabas  gui  tool  that  check  for  the  latest  version  of  java  avail  onlineand  compar  it  to  the  version  current  instal  i  alreadi  know  how  to  check  for  the  version  current  instal  on  the  machin  i  dont  know  about  the  part  where  you  check  for  the  version  avail  onlin  ,    

@@ -1,0 +1,1 @@
+ question  ,  null,  what  oper  in  java  are  consid  atom  ,    classdefinit  publicclassspecifi  privatefieldspecifi  instancefield  intdatatyp  simplevari  formalmethodparamet  methoddefinit  publicmethodspecifi  voiddatatyp  instancefieldinvoc  thisrefer  simpleassignmentexpress     constant  simplevari  longdatatyp  simpleassignmentexpress  

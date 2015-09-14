@@ -1,0 +1,1 @@
+ question  ,  try  {  thread.sleep(20);  onprogressupdate(i);}  catch  (interruptedexception  e)  {e.printstacktrace();}  ,will  this  make  the  current  ui  thread  to  sleep  ,  trycatchstat  objectmethodinvoc  actualmethodparamet       objectmethodinvoc  actualmethodparamet     

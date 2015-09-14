@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  a  java  applic  which  call  a  third  parti  method  which  can  block  indefinit  without  throw  an  except  is  it  possibl  to  wrap  my  method  call  in  a  timeout  block  or  thread  or  other  construct  such  that  i  get  back  control  after  i  assum  the  call  is  never  return  ,    

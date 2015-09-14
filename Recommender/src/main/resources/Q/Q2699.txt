@@ -1,0 +1,1 @@
+ question  ,  null,  how  mani  default  thread  are  start  when  ever  we  call  jvm  if  there  is  no  user  creat  thread  in  the  code  i  alreadi  know  thread  are  go  to  start  those  aremain  thread  non  daemon  thread  garbag  collector  daemon  thread  ,    

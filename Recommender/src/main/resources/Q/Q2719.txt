@@ -1,0 +1,1 @@
+ question  ,  null,  i  understand  that  the  jvm  is  itself  an  applic  that  turn  the  bytecod  of  the  java  execut  into  nativ  machin  code  but  when  use  nativ  thread  i  have  some  question  that  i  just  cannot  seem  to  answer  ,          

@@ -1,0 +1,1 @@
+ question  ,  null,  as  the  titl  say  i  was  wonder  what  the  time  complex  of  the  contain  method  of  an  arraylist  is  ,    

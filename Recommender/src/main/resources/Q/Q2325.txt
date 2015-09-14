@@ -1,0 +1,1 @@
+ question  ,  java.lang.thread.interrupt()  ,could  you  explain  what  doe  when  invok  ,  objectmethodinvoc 

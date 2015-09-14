@@ -1,0 +1,1 @@
+ question  ,  null,  whi  we  cant  use  access  specifi  for  variabl  declar  insid  method  in  a  java  class  ,          

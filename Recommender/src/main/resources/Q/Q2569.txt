@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  an  applic  meant  for  data  transfer  between  databas  most  of  the  oper  of  this  applic  are  independ  and  run  concurr  earlier  this  applic  was  run  on  core  intel  machin  and  now  this  applic  need  to  be  port  onto  amd  quad  core  machin  i  am  doubt  about  coupl  of  point  below  , 

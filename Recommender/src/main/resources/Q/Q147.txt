@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  an  inner  class  in  my  java  class  when  i  run  it  recommendswarn  to  make  it  as  staticwhat  the  point  of  this  warn  what  the  advantag  of  make  a  inner  class  as  static  ,          

@@ -1,0 +1,1 @@
+ question  ,  null,  if  i  have  two  multipl  thread  access  a  hashmap  but  guarante  that  theyll  never  be  access  the  same  key  at  the  same  time  could  that  still  lead  to  a  race  condit  , 

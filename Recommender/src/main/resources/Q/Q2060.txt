@@ -1,0 +1,1 @@
+ question  ,  null,  how  would  i  output  consol  inform  to  a  gui  i  have  a  applic  that  has  a  gui  up  till  i  have  the  user  move  within  directori  similar  to  the  cli  in  linux  so  how  would  i  port  the  output  and  input  from  a  consol  into  a  gui  would  jpanel  be  the  way  to  go  or  someth  els  , 

@@ -1,0 +1,1 @@
+ question  ,  null,  im  look  for  a  way  to  add  auto  complet  function  in  java  a  file  chooser  dialog  seem  java  swing  jfilechoos  doesnt  support  that  the  onli  altern  i  found  is  i  would  love  to  whether  ani  other  altern  exist  ,       simpleassignmentexpress  

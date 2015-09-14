@@ -1,0 +1,1 @@
+ question  ,  java.sql.connection  ,to  rephras  the  question  should  i  avoid  share  instanc  of  class  which  implement  between  differ  thread  ,  simpleassignmentexpress    

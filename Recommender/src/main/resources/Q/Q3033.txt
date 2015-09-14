@@ -1,0 +1,1 @@
+ question  ,  null,  scan  a  set  of  directori  continu  for  a  set  of  file  name  filter  for  each  file  name  filter  arriv  process  the  file  and  repeat  the  step  for  all  what  can  be  the  recommend  design  for  this  in  jdk  possibl  use  javaconcurrentexecutor  and  futur  ,    simpleassignmentexpress  

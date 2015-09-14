@@ -1,0 +1,1 @@
+ question  ,  synchronized;  notify;  wait  ,this  question  is  inspir  by  if  multipl  thread  are  wait  on  a  block  and  the  lock  becom  avail  who  goe  first  is  it  by  thread  prioriti  and  then  firstcomefirstserv  and  do  the  same  rule  appli  for  with  multipl  thread  ,          

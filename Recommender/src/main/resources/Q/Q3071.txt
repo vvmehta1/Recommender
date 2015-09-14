@@ -1,0 +1,1 @@
+ question  ,  null,  do  spurious  wakeup  affect  call  to  threadsleepxobvi  the  timer  is  not  precis  lead  to  minor  inaccuraci  in  wakeup  time  but  is  it  affect  by  the  spurious  wakeup  problem  ,    

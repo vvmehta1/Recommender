@@ -1,0 +1,1 @@
+ question  ,  t1;  t2;  t3  ,could  anyon  give  an  exampl  program  that  explain  java  thread  in  a  simpl  way  for  exampl  say  i  have  three  thread  and  i  want  a  code  that  demonstr  that  the  thread  execut  simultan  and  not  sequenti  ,  objectvari  simplevari  simpleassignmentexpress          

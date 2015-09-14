@@ -1,0 +1,1 @@
+ question  ,  null,  the  well  acclaim  book  say  this  about  threadloc  usag  what  doe  it  mean  by  say  that  threadloc  variabl  can  reduc  reusabl  and  introduc  hidden  coupl  among  class  ,    objectvari  simplevari  simpleassignmentexpress  

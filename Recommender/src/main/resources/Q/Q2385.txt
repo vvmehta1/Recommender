@@ -1,0 +1,1 @@
+ question  ,  synchronized  (this)  {//  ...some  code...}  ,what  is  this  good  forcould  you  write  an  exampl  ,       synchronizedmethodspecifi  

@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  to  avoid  get  concurrentmodificationexcept  how  would  i  do  it  ,       simpleassignmentexpress        

@@ -1,0 +1,1 @@
+ question  ,  package-private  ,i  am  learn  java  recent  and  i  came  across  the  notion  of  class  which  is  the  default  if  we  dont  specifi  anyth  but  then  i  realiz  in  other  word  what  are  the  major  pros  and  con  of  the  default  packagepriv  modifi  thank  you  all  ,                   

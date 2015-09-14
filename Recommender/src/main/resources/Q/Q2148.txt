@@ -1,0 +1,1 @@
+ question  ,  null,  im  tri  to  creat  a  custom  extens  of  basicsliderui  im  just  tri  to  make  the  thumb  a  circl  note  im  in  the  window  lf  ive  creat  a  veri  simpl  implement  that  just  call  gdrawov  but  whenev  i  drag  it  it  leav  a  trail  behind  ani  idea  whi  this  is  thank  jeff  , 

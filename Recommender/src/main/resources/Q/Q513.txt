@@ -1,0 +1,1 @@
+ question  ,  registernatives()  ,in  java  what  doe  the  privat  static  method  of  the  object  class  do  ,          

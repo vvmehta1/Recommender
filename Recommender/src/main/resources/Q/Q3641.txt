@@ -1,0 +1,1 @@
+ question  ,  null,  whi  doe  java  languag  provid  both  thread  and  runnabl  what  are  the  advantag  of  thread  over  runnabl  whi  couldnt  java  just  provid  a  runnabl  can  we  make  a  runnabl  sleep  give  it  an  id  etc  ,    

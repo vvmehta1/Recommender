@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  use  javaxswingtim  to  schedul  and  run  event  but  it  seem  to  be  freez  the  gui  just  want  to  know  whether  these  event  are  run  on  a  seper  thread  or  whether  i  have  to  do  it  myself  thank  , 

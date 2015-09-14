@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  make  javafx  destop  applic  i  want  to  remov  the  default  window  border  and  also  i  want  to  custom  the  standard  icon  of  minim  maxim  and  close  the  origin  motiv  of  this  kind  of  look  or  custom  is  new  kasperski  user  interfac  i  want  to  design  someth  like  that  , 

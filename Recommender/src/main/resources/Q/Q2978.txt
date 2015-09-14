@@ -1,0 +1,1 @@
+ question  ,  "javax.crypto.cipher;  cipher.getinstance(""rsa"");  threadlocal"  ,quit  simpli  can  one  instanc  of  eg  be  use  from  multipl  thread  or  do  i  need  to  stick  multipl  of  them  in  a  in  my  case  ,       objectvari  simplevari  simpleassignmentexpress  

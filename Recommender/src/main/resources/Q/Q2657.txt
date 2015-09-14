@@ -1,0 +1,1 @@
+ question  ,  1)  through  windows  first'  '2)  programmatically.  ,im  look  for  a  way  to  see  the  number  of  current  run  thread  ,          objectvari  simplevari  objectcreationstat  constructorcal  instancefield  

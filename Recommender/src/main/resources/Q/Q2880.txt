@@ -1,0 +1,1 @@
+ question  ,  [sleep][1]();;  [yield][2]();  ,as  current  execut  thread  while  it  encount  the  call  then  thread  move  immedi  into  sleep  state  where  as  for  thread  move  into  runnabl  statereadi  state  ,    objectmethodinvoc              

@@ -1,0 +1,1 @@
+ question  ,  null,  im  beginn  in  java  so  im  sorri  if  the  question  will  be  too  simpl  for  you  could  somebodi  explain  me  what  the  polymorph  is  in  javai  need  just  that  describ  it  simpli  thank  you  ,       classdefinit  formalmethodparamet  methoddefinit  privatemethodspecifi  voiddatatyp  intdatatyp  publicclassspecifi  extendsspecif     

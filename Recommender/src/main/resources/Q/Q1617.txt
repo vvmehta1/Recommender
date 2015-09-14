@@ -1,0 +1,1 @@
+ question  ,  jcalendar;  jxmonthview  ,what  are  good  java  swing  datechoos  compon  so  far  ive  onli  realli  found  these  both  of  these  look  a  bit  clunki  when  compar  with  some  ive  seen  on  webpag  for  exampl  it  might  be  nice  to  see  at  the  same  time  doe  anyon  know  of  ani  other  good  widget  out  there  ,  simpleassignmentexpress             

@@ -1,0 +1,1 @@
+ question  ,  null,  i  wonder  that  whether  threadinterrupt  and  threadcurrentthreadinterrupt  do  the  same  thing  or  will  give  the  same  result  if  not  what  the  differ  the  similar  quesiton  is  what  the  differ  between  threadsleep  and  threadcurrentthreadsleep  sinc  they  seem  make  the  same  sens  , 

@@ -1,0 +1,1 @@
+ question  ,  "system.out.println(""foo"".getclass()  ==  ""fum"".getclass());"  ,i  realli  do  mean  identityequ  here  for  exampl  will  the  follow  alway  print  thank  in  advanc  mack  ,       simpleassignmentexpress  objectmethodinvoc  equalexpress  

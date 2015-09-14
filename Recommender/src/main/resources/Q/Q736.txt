@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  have  an  arraylist  of  object  those  object  have  an  attribut  or  datatyp  string  i  need  to  sort  the  arraylist  by  that  string  how  to  achiev  this  ,    objectmethodinvoc  stringvari  stringdatatyp  simplevari  objectvari  returnstat  importstat  staticimport  

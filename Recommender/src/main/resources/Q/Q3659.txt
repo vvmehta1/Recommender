@@ -1,0 +1,1 @@
+ question  ,  synchronized(a){a  =  55;a.wait();};  java.lang.illegalmonitorstateexception;  a.wait();;  a=55;  synchronized(a){a.wait();a  =  55;}  ,in  my  java  program  when  i  code  it  give  run  time  except  on  statement  howev  run  success  but  if  i  code  as  then  it  run  perfect  without  ani  except  whi  so  ,  simpleassignmentexpress  objectmethodinvoc       

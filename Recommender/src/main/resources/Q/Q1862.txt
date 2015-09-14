@@ -1,0 +1,1 @@
+ question  ,  null,  doe  someon  know  an  open  sourc  project  or  code  snippet  which  demonstr  how  to  creat  a  googlechrom  like  interfac  with  similar  tab  and  toolbar  in  swing  i  know  that  i  can  use  but  im  think  of  an  interfac  which  look  and  feel  veri  similar  to  the  googl  chrome  tab  brows  ,          

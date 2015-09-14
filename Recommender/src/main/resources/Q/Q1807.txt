@@ -1,0 +1,1 @@
+ question  ,  null,  what  is  the  usag  of  the  layout  in  swt  applic  sinc  we  can  omit  it  in  our  applic  what  is  the  benefit  of  have  it  ,       

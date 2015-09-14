@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  look  for  a  toolframework  to  automat  generat  a  swing  user  interfac  to  perform  crud  oper  on  an  under  databas  i  would  also  like  to  configur  the  databas  field  that  should  be  exposedsometh  like  django  via  or  rubi  on  rail  featur  but  in  a  java  desktop  environ  ,       

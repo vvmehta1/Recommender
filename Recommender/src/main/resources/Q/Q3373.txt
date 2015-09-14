@@ -1,0 +1,1 @@
+ question  ,  top  ,in  a  linux  serverfedora  we  run  a  singl  jboss  applic  server  and  we  use  quartz  to  schedul  our  taskyesterdaybut  if  i  use  ps  auxgrep  java  onli  one  java  processjboss  as  is  displayedso  my  question  would  be  env  ,  simpleassignmentexpress 

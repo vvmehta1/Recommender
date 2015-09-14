@@ -1,0 +1,1 @@
+ question  ,  stop();  resume();  suspend();  threadgroup  ,mani  method  like  etc  are  deprec  so  is  it  use  to  creat  thread  use  ,  simpleassignmentexpress    objectvari  simplevari  simpleassignmentexpress     

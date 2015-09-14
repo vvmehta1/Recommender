@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  to  autoschedul  a  thread  with  a  particular  time  interv  i  also  need  to  execut  this  in  the  background  contin  without  hang  to  the  devic  i  have  tri  this  with  applic  manag  class  but  it  for  applic  schedul  and  i  need  to  schedul  thread  within  the  applic  ,    simpleassignmentexpress        

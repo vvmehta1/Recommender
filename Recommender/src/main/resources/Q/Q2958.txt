@@ -1,0 +1,1 @@
+ question  ,  "<bean  id=""directorypoller""  class=""org...mydirectorypoller""  scope=""thread""/>"  ,within  my  web  applic  i  am  tri  to  creat  a  directori  poll  bean  use  java  sdk  watchservic  what  i  would  like  to  achiev  is  to  run  this  bean  in  it  own  thread  so  that  it  doe  not  block  the  applic  someth  like  ,    

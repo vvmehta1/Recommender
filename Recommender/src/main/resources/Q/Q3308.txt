@@ -1,0 +1,1 @@
+ question  ,  synchronized;  lock'  '  semaphore'  '  monitor'  '  mutex  ,when  we  use  keyword  in  java  which  synchron  primit  is  use  exact  how  jvm  implement  the  lock  at  the  nativ  level  ,  simpleassignmentexpress    

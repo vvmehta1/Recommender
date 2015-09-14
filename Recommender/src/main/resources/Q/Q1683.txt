@@ -1,0 +1,1 @@
+ question  ,  jtabbedpane  ,doe  the  text  in  swing  compon  have  a  default  fontin  particular  what  about  tab  label  on  im  work  on  a  mockup  of  a  gui  made  with  swing  and  want  it  to  blend  it  with  a  screen  imag  i  grab  of  a  swing  app  ,  simpleassignmentexpress                

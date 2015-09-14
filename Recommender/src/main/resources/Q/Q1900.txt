@@ -1,0 +1,1 @@
+ question  ,  null,  we  are  go  to  creat  a  java  standalon  desktop  applic  we  are  search  for  the  best  solut  for  the  present  layer  i  saw  javafx  and  realli  like  it  but  i  am  a  bit  confus  can  it  be  use  in  standalon  desktop  applicationscan  i  use  javafx  in  my  standalon  desktop  app  and  also  use  css  to  style  the  ui  , 

@@ -1,0 +1,1 @@
+ question  ,  null,  we  can  write  a  java  program  with  one  nonpubl  class  contain  a  main  method  itll  compil  and  run  just  finewhi  do  peopl  make  the  main  class  public  is  there  ani  benefit  ,       

@@ -1,0 +1,1 @@
+ question  ,  arraydiscriptor;array  ,to  pass  an  array  to  oracl  procedur  we  use  and  object  what  object  do  i  have  to  use  to  pass  an  object  to  a  store  procedur  ,  simpleassignmentexpress 

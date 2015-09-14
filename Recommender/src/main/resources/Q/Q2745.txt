@@ -1,0 +1,1 @@
+ question  ,  run();  run();  run();  run()  ,i  am  newbi  to  java  one  doubt  i  read  that  intern  thread  classs  method  call  the  runnabl  interfac  my  question  is  thank  in  advanc  ,    

@@ -1,0 +1,1 @@
+ question  ,  null,  whi  doe  java  disallow  inherit  from  a  class  whose  constructor  is  privat  ,    objectcreationstat  constructorcal        

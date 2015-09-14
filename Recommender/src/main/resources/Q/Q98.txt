@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  mani  xml  file  and  i  would  like  to  use  xstream  to  manag  them  is  it  possibl  to  generat  java  class  correspond  to  my  xml  file  use  xstream  ,    simpleassignmentexpress     

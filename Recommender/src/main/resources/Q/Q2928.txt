@@ -1,0 +1,1 @@
+ question  ,  null,  i  was  just  wonder  whether  we  actual  need  the  algorithm  to  be  mutithread  if  it  must  make  use  of  the  multicor  processor  or  will  the  jvm  make  use  of  multipl  core  eventhough  our  algorithm  is  sequenti  ,          

@@ -1,0 +1,1 @@
+ question  ,  null,  im  look  for  a  way  to  display  a  javasqlresultset  on  the  screen  prefer  builtinto  java  or  swing  if  neither  of  those  have  a  decent  method  that  simpl  id  consid  spring  how  , 

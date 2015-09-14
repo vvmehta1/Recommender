@@ -1,0 +1,1 @@
+ question  ,  "int[]  alist  =  new  int  [3];alist.add(""apple"");alist.add(""banana"");alist.add(""orange"");"  ,say  that  i  want  to  use  the  second  item  in  the  arraylist  what  is  the  code  in  order  to  get  the  follow  output  output  banana  ,                   

@@ -1,0 +1,1 @@
+ question  ,  thread.stop();  thread.interrupted();  stop;  stop  ,whi  is  so  danger  whi  is  it  advis  to  use  instead  i  know  is  deprec  what  other  thing  make  it  unsaf  is  there  ani  place  where  i  can  use  method  if  so  give  me  an  exampl  ,  objectmethodinvoc  simpleassignmentexpress 

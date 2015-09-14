@@ -1,0 +1,1 @@
+ question  ,  null,  use  of  volatil  onli  make  sens  in  multiprocessor  system  is  this  wrong  im  tri  to  learn  about  thread  program  so  if  you  know  ani  good  articlespdf  i  like  stuff  that  mention  a  bit  about  how  the  oper  system  work  as  well  not  just  the  languag  syntax  ,          

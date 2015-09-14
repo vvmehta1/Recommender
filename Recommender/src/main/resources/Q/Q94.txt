@@ -1,0 +1,1 @@
+ question  ,  protected  ,id  like  to  be  abl  to  have  two  class  in  my  packag  that  is  i  do  not  want  file  outsid  of  my  packag  to  see  them  as  visibl  they  will  be  for  intern  use  within  the  packag  onli  how  can  i  do  this  , 

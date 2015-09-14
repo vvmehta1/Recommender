@@ -1,0 +1,1 @@
+ question  ,  class<?  extends  classa>;  class<?  extends  interfaceb>  ,i  want  to  have  a  class  object  but  i  want  to  forc  whatev  class  it  repres  to  extend  class  a  and  implement  interfac  b  i  can  do  or  but  i  cant  do  bothi  there  a  way  to  do  this  ,    

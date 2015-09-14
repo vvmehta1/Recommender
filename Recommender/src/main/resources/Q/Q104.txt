@@ -1,0 +1,1 @@
+ question  ,  null,  im  write  a  java  program  that  work  with  class  file  i  want  to  be  abl  to  read  a  class  file  on  the  filesystem  with  inputstream  and  determin  the  packag  that  it  is  in  that  class  file  might  not  be  in  a  nice  packag  directori  structur  it  could  be  lie  around  in  some  random  place  how  can  i  do  this  , 

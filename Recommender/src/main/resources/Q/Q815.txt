@@ -1,0 +1,1 @@
+ question  ,  protected  ,doe  anyon  have  ani  idea  removerang  method  in  and  also  in  isit  look  like  a  quit  welldefin  and  use  oper  but  still  to  use  it  were  forc  to  subclass  the  list  implement  is  there  some  hidden  rational  seem  quit  inexplic  to  me  , 

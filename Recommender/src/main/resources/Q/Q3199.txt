@@ -1,0 +1,1 @@
+ question  ,  null,  am  i  right  in  say  that  a  deadlock  is  suppos  to  happen  in  the  follow  case  object  call  a  synch  method  of  object  that  call  a  synch  method  of  object  that  call  a  synch  method  of  object  sorri  if  it  look  stupid  of  me  most  probabl  it  is  but  that  im  ask  thank  ,       

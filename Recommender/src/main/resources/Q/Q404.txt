@@ -1,0 +1,1 @@
+ question  ,  null,  i  cant  understand  the  use  and  syntax  use  in  foreach  loop  in  java  what  is  the  differ  between  for  loop  and  the  foreach  loop  , 

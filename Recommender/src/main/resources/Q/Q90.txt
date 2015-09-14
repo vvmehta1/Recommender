@@ -1,0 +1,1 @@
+ question  ,  null,  i  know  this  is  a  stupid  question  but  still  i  have  a  doubt  which  need  to  be  clearedmi  question  is  whi  cannot  we  defin  a  class  as  protectedi  know  we  cannot  but  whi  there  should  be  some  specif  reason  ,    classdefinit  publicclassspecifi  protectedclassspecifi        

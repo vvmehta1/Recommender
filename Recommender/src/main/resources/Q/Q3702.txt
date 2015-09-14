@@ -1,0 +1,1 @@
+ question  ,  $  su  <user>;  cp  /x  /y;  ,suppos  i  need  to  run  this  on  shell  is  there  a  way  to  run  thread  with  anoth  unix  user  within  the  applic  ,  simpleassignmentexpress  greaterexpress  divideexpress    

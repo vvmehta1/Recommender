@@ -1,0 +1,1 @@
+ question  ,  run()  ,this  is  a  pretti  basic  question  about  the  vocabulari  of  java  threadsi  cant  see  ani  possibl  duplic  but  there  might  be  what  doe  the  word  refer  to  in  oracl  documentationi  it  when  the  method  has  not  yet  complet  or  is  it  ani  other  paramet  ,                   objectvari  simplevari  simpleassignmentexpress  

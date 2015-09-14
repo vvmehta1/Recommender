@@ -1,0 +1,1 @@
+ question  ,  null,  could  someon  point  me  to  snippet  for  make  parallel  webrequest  i  need  to  make  web  request  and  concaten  the  html  result  is  there  a  quick  way  to  accomplish  this  or  do  i  have  to  go  the  thread  way  thank  you  ,    

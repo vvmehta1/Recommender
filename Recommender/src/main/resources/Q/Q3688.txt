@@ -1,0 +1,1 @@
+ question  ,  executor;  future  ,is  there  a  framework  that  is  compat  with  jdk  that  can  simul  the  same  execut  timeout  function  via  thread  manag  as  in  and  found  in  jdk  ,  simpleassignmentexpress    

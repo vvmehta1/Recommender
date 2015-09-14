@@ -1,0 +1,1 @@
+ question  ,  class  a{string  a;}  ,is  there  ani  default  class  that  is  extend  by  all  the  class  by  default  in  java  exampl  if  i  have  a  simpl  class  like  is  this  class  extend  a  class  by  default  ,  objectvari  simplevari  stringvari  stringdatatyp    simpleassignmentexpress                 simpleassignmentexpress     

@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  work  on  a  java  swing  applic  i  need  to  creat  a  dialog  like  that  shown  in  the  figur  i  do  not  know  the  name  for  this  i  can  not  explain  so  i  am  attach  a  picturepleas  tell  what  this  is  call  and  how  i  can  creat  it  in  my  gui  applic  ,    

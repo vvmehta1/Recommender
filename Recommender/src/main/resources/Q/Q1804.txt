@@ -1,0 +1,1 @@
+ question  ,  null,  how  to  make  a  simil  autocomplet  combobox  in  javafx  x  use  modern  fxml  and  controllerjava  as  this  one  is  made  abov  mention  demo  is  messi  and  hard  to  configur  and  be  independ  requir  some  jar  ,    

@@ -1,0 +1,1 @@
+ question  ,  object  foo(class  type)  {//  return  new  object  of  type  'type'}  ,in  java  can  i  use  a  class  object  to  dynam  instanti  class  of  that  type  ie  i  want  some  function  like  this  ,  formalmethodparamet    objectmethodinvoc        

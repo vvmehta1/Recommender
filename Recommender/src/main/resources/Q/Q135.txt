@@ -1,0 +1,1 @@
+ question  ,  null,  can  you  provid  implement  on  a  abstract  classwhat  the  differ  between  these  two  and  when  will  i  know  when  will  i  know  to  use  them  ,    

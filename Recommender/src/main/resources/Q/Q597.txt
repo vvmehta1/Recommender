@@ -1,0 +1,1 @@
+ question  ,  individual  ind  =  new  individual();system.out.println(ind);;  individual@1922221  ,i  am  a  newbi  in  java  say  i  have  a  class  i  want  to  printabov  code  give  output  like  this  ,  simpleassignmentexpress  objectcreationstat  constructorcal  javalangsystemoutprintln  actualmethodparamet          

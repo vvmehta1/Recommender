@@ -1,0 +1,1 @@
+ question  ,  null,  i  need  a  queue  that  can  be  process  by  multipl  reader  the  reader  will  dequeu  an  element  and  send  it  to  a  rest  servic  what  import  to  note  are  what  are  my  option  ,       

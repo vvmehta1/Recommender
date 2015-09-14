@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  read  but  im  still  confus  how  do  i  know  when  i  should  mark  a  variabl  volatil  what  if  i  get  it  wrong  either  omit  a  volatil  on  someth  that  need  it  or  put  volatil  on  someth  that  doesnt  what  are  the  rule  of  thumb  when  figur  out  what  variabl  should  be  volatil  in  multithread  code  ,          

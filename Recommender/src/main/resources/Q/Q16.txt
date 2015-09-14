@@ -1,0 +1,1 @@
+ question  ,  tostring  ,i  get  this  when  i  call  on  an  object  i  receiv  from  a  function  call  i  know  the  type  of  the  object  is  encod  in  this  string  but  i  dont  know  how  to  read  it  what  is  this  type  of  encod  call  ,  simpleassignmentexpress 

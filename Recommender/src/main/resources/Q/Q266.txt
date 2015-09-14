@@ -1,0 +1,1 @@
+ question  ,  class<t>;  t[][]  ,i  have  generic  type  with  object  provid  in  constructor  i  want  to  creat  twodimension  array  in  this  constructor  is  this  howev  possibl  ,  simplevari    

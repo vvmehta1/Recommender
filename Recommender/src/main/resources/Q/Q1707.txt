@@ -1,0 +1,1 @@
+ question  ,  null,  how  should  i  disabl  just  a  singl  column  from  drag  in  jtabl  i  want  to  allow  other  column  from  drag  but  just  the  first  column  index  at  thank  ,    objectmethodinvoc  actualmethodparamet  fals  

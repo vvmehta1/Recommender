@@ -1,0 +1,1 @@
+ question  ,  null,  referringa  is  a  precompil  java  class  i  also  have  the  sourc  fileb  is  a  java  class  that  i  am  author  b  extend  a  how  can  logic  be  implement  such  that  a  can  call  the  method  that  b  has  the  follow  are  the  condit  as  state  if  need  i  could  modifi  awhat  could  be  the  possibl  solut  either  way  ,       

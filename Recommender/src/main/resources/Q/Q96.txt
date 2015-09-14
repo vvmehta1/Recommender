@@ -1,0 +1,1 @@
+ question  ,  "public  static  class  qwert{public  static  void  main(string  args[]){int  x  =  12;while(x<12){x--;}system.out.println(""  the  x  value  is  :  ""+  x);}}"  ,i  am  tri  to  find  whi  the  class  cant  be  creat  as  a  static  like  ,          

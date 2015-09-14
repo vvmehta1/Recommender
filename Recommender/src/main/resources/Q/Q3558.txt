@@ -1,0 +1,1 @@
+ question  ,  null,  how  can  i  make  a  modal  jdialog  without  button  appear  for  the  durat  it  take  a  runnabl  instanc  to  complet  and  have  that  instanc  updat  a  progress  barmessag  on  that  dialog  clear  spaghetti  code  might  be  this  work  but  im  look  for  a  clean  design  if  one  exist  thank  ,       

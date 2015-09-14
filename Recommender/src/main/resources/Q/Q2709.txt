@@ -1,0 +1,1 @@
+ question  ,  null,  java  garbag  collector  run  with  prioriti  due  to  which  it  is  not  guarante  that  systemgc  will  actual  execut  if  calledi  there  ani  way  to  chang  it  prioriti  this  shall  enabl  me  to  run  if  i  want  ,          constant  simplevari  intdatatyp  

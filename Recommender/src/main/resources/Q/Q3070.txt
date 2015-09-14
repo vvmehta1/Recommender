@@ -1,0 +1,1 @@
+ question  ,  null,  i  was  read  an  on  handl  out  of  memori  error  condit  in  java  and  on  jboss  platformand  i  saw  this  suggest  to  reduc  the  size  of  the  threadstack  how  would  reduc  the  size  of  the  threadstack  help  with  a  max  memori  error  condit  ,          

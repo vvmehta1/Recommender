@@ -1,0 +1,1 @@
+ question  ,  null,  accord  to  the  hashset  javadoc  hashsetcontain  onli  return  a  boolean  how  can  i  find  an  object  in  a  hashset  and  modifi  it  it  not  a  primit  data  type  i  see  that  hashtabl  has  a  get  method  but  i  would  prefer  to  use  the  set  , 

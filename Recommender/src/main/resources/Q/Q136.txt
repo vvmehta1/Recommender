@@ -1,0 +1,1 @@
+ question  ,  "  try  {class.forname(""my.package.foo"");//  it  exists  on  the  classpath  }  catch(classnotfoundexception  e)  {//  it  does  not  exist  on  the  classpath  }"  ,if  i  use  the  static  initi  block  of  foo  is  kick  off  is  there  a  way  to  determin  whether  a  class  mypackagefoo  is  on  the  classpath  without  kick  off  it  static  initi  , 

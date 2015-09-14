@@ -1,0 +1,1 @@
+ question  ,  null,  as  the  titl  say  i  need  a  way  to  stop  or  interrupta  thread  that  is  block  wait  on  an  input  from  the  socket  ,    objectvari  simplevari     simpleassignmentexpress     objectmethodinvoc        

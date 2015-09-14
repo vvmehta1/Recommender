@@ -1,0 +1,1 @@
+ question  ,  a;  b;  b.join();  a;  run()  ,suppos  a  thread  is  run  i  have  anoth  thread  whos  not  b  has  been  start  is  on  runnabl  state  what  happen  if  i  call  will  it  suspend  the  execut  of  or  will  it  wait  for  as  method  to  complet  ,  objectvari  simplevari  objectmethodinvoc       objectmethodinvoc        objectmethodinvoc     

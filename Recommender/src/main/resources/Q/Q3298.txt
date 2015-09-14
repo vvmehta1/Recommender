@@ -1,0 +1,1 @@
+ question  ,  shutdown.bat  ,i  have  develop  a  multithread  web  applic  that  run  in  tomcatbut  i  cannot  usetomcat  didnt  stop  grace  in  the  debugg  i  saw  that  thread  continu  to  run  after  shutdown  command  do  i  have  to  fix  my  applic  code  to  meet  special  requir  thank  ,  simpleassignmentexpress    simpleassignmentexpress     

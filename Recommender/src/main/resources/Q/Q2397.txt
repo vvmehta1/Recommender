@@ -1,0 +1,1 @@
+ question  ,  dowork()  ,let  say  i  have  a  method  how  do  i  call  it  from  a  separ  thread  not  the  main  thread  ,       

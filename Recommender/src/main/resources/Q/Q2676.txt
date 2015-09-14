@@ -1,0 +1,1 @@
+ question  ,  javax.servlet.singlethreadmodel  ,whi  is  deprec  ,  simpleassignmentexpress          

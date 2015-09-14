@@ -1,0 +1,1 @@
+ question  ,  null,  when  i  set  the  gridlayout  to  the  jpanel  and  then  add  someth  it  is  ad  subsequ  in  the  text  order  from  left  to  right  from  top  to  bottom  but  i  want  to  add  an  element  to  a  specif  cell  in  the  ith  row  in  the  jth  column  is  it  possibl  , 

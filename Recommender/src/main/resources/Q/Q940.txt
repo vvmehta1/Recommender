@@ -1,0 +1,1 @@
+ question  ,  for  (int  i  =0;  i  <  n;  i++){lst.add(lst.size()/2'  '3*i);}  ,i  was  think  that  the  for  loop  will  take  on  but  i  was  not  clear  what  what  the  differ  between  addjt  if  use  arraylist  and  linkedlistthank  ,    simpleassignmentexpress  

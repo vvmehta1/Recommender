@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  a  larg  class  that  contain  about  methodsi  it  possibl  to  automat  sort  them  in  alphabet  order  in  eclipsei  was  hope  to  do  this  so  they  would  be  easier  to  find  when  java  brows  or  look  at  the  class  outlin  window  ,       

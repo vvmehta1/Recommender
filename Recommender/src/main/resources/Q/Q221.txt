@@ -1,0 +1,1 @@
+ question  ,  "boolean  alwaystrue  =  (string.class  ==  class.forname(""java.lang.string""));"  ,ani  class  in  the  java  has  a  class  i  want  to  know  class  is  a  static  method  or  not  or  it  is  a  public  static  field  ,       simpleassignmentexpress        

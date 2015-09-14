@@ -1,0 +1,1 @@
+ question  ,  null,  i  was  wonder  if  it  is  possibl  to  assign  an  array  to  an  arraylist  in  java  ,    objectvari  simplevari  arraydatatyp  simpleassignmentexpress  lessexpress  greaterexpress  notequalexpress  objectmethodinvoc  actualmethodparamet  

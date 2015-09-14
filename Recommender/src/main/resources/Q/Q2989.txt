@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  method  mmm  and  m  in  a  class  mm  and  m  are  synchron  method  also  i  have  thread  ttt  and  t  respect  if  t  access  the  m  method  synchron  method  could  t  thread  access  m  method  synchron  method  simultaneouslyif  not  what  would  be  the  state  of  t  ,       

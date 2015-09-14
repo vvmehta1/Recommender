@@ -1,0 +1,1 @@
+ question  ,  null,  guy  do  we  inherit  from  object  like  from  ani  other  class  except  of  cours  that  we  dont  have  to  explicit  state  that  or  there  is  some  special  privileg  to  object  class  and  it  not  inherit  as  other  class  ,       

@@ -1,0 +1,1 @@
+ question  ,  null,  on  the  iphon  scroll  through  list  is  anim  smooth  ignor  the  inertia  effect  though  have  it  would  be  cool  as  well  how  would  i  go  about  make  a  swing  listbox  scroll  smooth  like  that  there  are  other  exampl  as  well  like  browser  but  those  use  nativ  control  which  i  cannot  use  with  swing  ,    

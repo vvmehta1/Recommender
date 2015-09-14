@@ -1,0 +1,1 @@
+ question  ,  thread();  swingworker()  ,im  tri  to  learn  how  to  thread  a  class  specif  a  method  in  a  class  and  ive  come  across  and  this  is  a  swing  applic  which  should  i  choos  and  whi  also  is  there  some  generic  way  to  add  implement  for  thread  to  exist  method  thank  ,       

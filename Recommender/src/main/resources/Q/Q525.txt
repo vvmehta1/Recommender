@@ -1,0 +1,1 @@
+ question  ,  null,  are  there  ani  class  that  dont  inherit  object  as  superclass  or  mayb  have  becom  obsoletedeprec  ,    objectvari  simplevari     simpleassignmentexpress     simpleassignmentexpress  

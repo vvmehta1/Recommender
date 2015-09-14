@@ -1,0 +1,1 @@
+ question  ,  null,  what  happen  to  the  except  happen  in  a  thread  which  is  start  from  the  main  methodif  it  is  not  handl  insid  the  run  method  of  the  thread  can  it  be  propag  back  to  the  main  method  ,    objectmethodinvoc  objectvari  simplevari  simpleassignmentexpress     trycatchstat        simpleassignmentexpress     

@@ -1,0 +1,1 @@
+ question  ,  java.lang.object  x  =  new  foo()  ,what  is  the  c  equival  of  ,  simpleassignmentexpress  objectcreationstat  constructorcal       

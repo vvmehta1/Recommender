@@ -1,0 +1,1 @@
+ question  ,  null,  i  need  to  use  the  logic  contain  in  some  java  class  i  found  jni  but  that  project  seem  not  updat  recent  is  there  a  way  to  use  it  in  a  delphi  nativ  applic  i  use  delphi  ,                

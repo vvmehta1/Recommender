@@ -1,0 +1,1 @@
+ question  ,  null,  i  askeda  questionabout  use  thread  in  gui  and  got  the  follow  responsewhat  i  want  to  know  is  what  is  the  javafx  respons  to  edt  and  could  anyon  give  an  exampl  of  how  to  use  it  my  first  post  can  be  found  at  this  link  ,    

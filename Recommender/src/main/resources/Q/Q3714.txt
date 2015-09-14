@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  write  a  crawler  which  have  a  set  number  of  worker  thread  that  handl  web  io  and  process  each  webpag  howev  i  am  not  sure  how  i  can  find  the  optim  number  of  thread  for  the  system  what  the  best  way  to  monitor  thread  perform  and  concret  measur  factor  such  as  thrash  , 

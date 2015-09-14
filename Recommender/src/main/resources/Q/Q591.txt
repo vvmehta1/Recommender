@@ -1,0 +1,1 @@
+ question  ,  arraylist<object  type  car'  'object  type  bus>  list  =  new  arraylist<object  type  car'  'object  type  bus>()  ,is  it  possibl  to  creat  i  mean  add  object  from  differ  class  to  one  arraylist  thank  ,  javalangobject  javautilarraylist  simpleassignmentexpress  greaterexpress  lessexpress  objectvari  simplevari       objectvari  simplevari     

@@ -1,0 +1,1 @@
+ question  ,  null,  i  wonder  whi  or  in  which  case  should  one  consid  inherit  instead  of  composit  when  there  are  so  much  con  of  it  therefor  i  cant  imagin  how  on  earth  we  can  reli  on  it  the  superclass  author  may  want  to  improv  the  perform  and  our  client  code  may  break  down  , 

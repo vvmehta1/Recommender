@@ -1,0 +1,1 @@
+ question  ,  null,  anyon  has  experi  about  interfac  with  multimedia  or  fn  function  key  in  java  there  seem  to  be  an  incomplet  discuss  regard  multimedia  button  in  java  there  is  also  a  librari  which  can  be  use  to  regist  global  hotkey  in  window  but  onli  work  for  regist  global  not  media  key  , 

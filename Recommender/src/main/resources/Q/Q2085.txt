@@ -1,0 +1,1 @@
+ question  ,  null,  hey  everyon  im  tri  to  make  a  swing  gui  with  a  button  and  a  label  on  itim  use  a  border  layout  and  the  label  in  the  north  field  show  up  fine  but  the  button  take  up  the  rest  of  the  frame  it  in  the  center  fieldani  idea  how  to  fix  this  ,       

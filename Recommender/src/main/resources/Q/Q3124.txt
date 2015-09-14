@@ -1,0 +1,1 @@
+ question  ,  null,  if  i  just  use  synchron  not  waitnotifi  method  will  it  still  keep  threadsaf  what  the  differ  thx  in  advanc  ,       ifstat  objectmethodinvoc  actualmethodparamet  

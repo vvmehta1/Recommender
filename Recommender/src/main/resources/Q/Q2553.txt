@@ -1,0 +1,1 @@
+ question  ,  runonuithread;  asynctask;  pros;  cons  ,i  have  an  code  sampl  that  use  this  function  to  run  a  thread  whi  and  when  may  we  need  to  use  it  what  about  to  use  class  what  the  and  ,  objectvari  simplevari  simpleassignmentexpress 

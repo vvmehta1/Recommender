@@ -1,0 +1,1 @@
+ question  ,  null,  what  charact  are  valid  in  a  java  class  name  what  other  rule  govern  java  class  name  for  instanc  java  class  name  cannot  begin  with  a  number  ,    constant  constantinitializationstat  intdatatyp  simpleassignmentexpress           

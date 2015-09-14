@@ -1,0 +1,1 @@
+ question  ,  null,  how  is  threadloc  implement  is  it  implement  in  java  use  some  concurr  map  from  threadid  to  object  or  doe  it  use  some  jvm  hook  to  do  it  more  effici  ,    objectvari  simplevari  simpleassignmentexpress        

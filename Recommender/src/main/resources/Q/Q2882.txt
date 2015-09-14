@@ -1,0 +1,1 @@
+ question  ,  null,  what  is  the  advantag  of  use  condit  interfaceimplement  over  the  convent  wait  notifi  mechan  here  i  quot  the  comment  written  by  doug  lea  i  see  this  is  a  more  object  orient  way  of  implement  waitnotifi  mechan  but  is  there  a  sound  advantag  over  the  former  ,       objectvari  simplevari  throwsspecif  objectmethodinvoc  

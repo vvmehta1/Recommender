@@ -1,0 +1,1 @@
+ question  ,  int[][]  matrix  =  new  int[10][10];  ,is  a  primit  or  is  it  consid  an  object  when  i  send  it  as  a  paramet  to  a  function  doe  it  send  it  refer  like  an  object  or  it  valu  like  a  primit  ,  arraycreationstat  arrayvari  multidimensionalarraydatatyp  intdatatyp  simpleassignmentexpress    simpleassignmentexpress     

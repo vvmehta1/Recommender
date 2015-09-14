@@ -1,0 +1,1 @@
+ question  ,  .class;  print;  print.class  ,what  doe  mean  in  java  for  exampl  if  i  creat  a  class  call  what  doe  return  , 

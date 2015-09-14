@@ -1,0 +1,1 @@
+ question  ,  null,  doe  the  executorservic  guarante  thread  safeti  ill  be  submit  job  from  differ  thread  to  the  same  threadpoolexecutor  do  i  have  to  synchron  access  to  the  executor  befor  interactingsubmit  task  ,    simpleassignmentexpress     objectvari  simplevari     objectvari  simplevari  objectmethodinvoc  simpleassignmentexpress  

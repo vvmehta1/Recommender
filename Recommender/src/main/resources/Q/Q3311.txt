@@ -1,0 +1,1 @@
+ question  ,  executors.newcachedthreadpool;  start;  runnable  ,the  javadoc  say  that  the  servic  return  by  reus  thread  how  is  this  possiblea  thread  can  onli  be  start  onc  by  call  so  how  do  they  implement  it  thread  of  this  servic  are  run  in  an  infinit  loop  and  their  are  replac  on  demand  ,  objectvari  simplevari  simpleassignmentexpress 

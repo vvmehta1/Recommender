@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  two  thread  in  an  android  applic  one  is  the  view  thread  and  the  other  a  worker  thread  what  i  want  to  do  is  to  sleep  the  worker  thread  until  the  view  thread  termin  the  handl  of  the  ondraw  method  how  i  can  do  this  is  there  a  wait  for  a  signal  or  someth  ,    

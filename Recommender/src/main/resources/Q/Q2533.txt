@@ -1,0 +1,1 @@
+ question  ,  thread.sleep();  thread.sleep()  ,i  alway  see  peopl  use  for  creat  delay  in  process  or  someth  similar  and  peopl  are  alway  derid  for  use  it  this  way  when  is  it  sensiblerequir  to  use  ,  objectmethodinvoc    objectmethodinvoc              simpleassignmentexpress           

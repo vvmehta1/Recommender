@@ -1,0 +1,1 @@
+ question  ,  null,  i  need  to  creat  a  dialog  in  javafx  i  know  that  i  can  make  the  stage  behav  like  a  dialog  by  modifi  modal  owner  and  resiz  propertiesbut  how  do  i  hide  the  minim  and  maxim  button  from  the  stage  window  typic  dialog  onli  have  the  close  button  ,       

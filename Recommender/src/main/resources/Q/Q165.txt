@@ -1,0 +1,1 @@
+ question  ,  null,  q  can  i  have  an  interfac  insid  a  class  in  java  q  can  i  have  an  class  insid  an  interfac  if  yes  then  in  which  situat  should  such  classesinterfac  use  , 

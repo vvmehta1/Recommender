@@ -1,0 +1,1 @@
+ question  ,  null,  how  much  data  can  be  ad  in  javautillist  in  java  at  the  maximumi  there  ani  default  size  an  array  list  , 

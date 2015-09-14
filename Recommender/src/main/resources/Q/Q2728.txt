@@ -1,0 +1,1 @@
+ question  ,  null,  in  javadoc  there  is  said  that  yield  method  and  katherin  sierra  and  bert  bate  scjp  book  say  thatso  what  actual  method  is  do  ,    whilestat     objectmethodinvoc        simpleassignmentexpress  actualmethodparamet  postdecrementexpress  greaterexpress  returnstat     

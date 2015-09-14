@@ -1,0 +1,1 @@
+ question  ,  windowlistener  ,ive  got  a  window  and  i  would  like  to  get  notifi  when  the  posit  or  the  size  has  chang  which  type  of  listen  ist  the  best  to  takedidnt  work  for  me  ani  way  thank  and  regard  ,  simpleassignmentexpress    stringliter  stringdatatyp  simpleassignmentexpress  

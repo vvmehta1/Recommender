@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  look  for  a  gui  editor  plugin  for  eclips  i  know  there  is  someth  call  visual  editor  but  im  not  sure  about  the  status  of  the  project  are  there  some  good  alterantivesi  tri  to  instal  visual  editor  from  the  updat  site  but  it  fail  complain  about  miss  depend  ,    

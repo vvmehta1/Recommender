@@ -1,0 +1,1 @@
+ question  ,  null,  in  java  is  there  ani  possibl  way  to  get  all  the  instanc  of  a  certain  class  ,       

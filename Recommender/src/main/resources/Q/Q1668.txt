@@ -1,0 +1,1 @@
+ question  ,  null,  is  there  ani  eclips  plugin  tool  who  can  help  to  creat  graphic  user  interfac  for  swing  awt  or  swt  becaus  im  tire  of  write  everytim  the  code  of  panel  label  thank  ,             

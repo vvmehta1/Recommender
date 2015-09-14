@@ -1,0 +1,1 @@
+ question  ,  setdefaultcloseoperation();  setdefaultcloseoperation(jframe.exit_on_close);  ,i  was  wonder  if  there  is  a  way  by  click  on  the  x  to  let  the  program  perform  some  code  befor  close  the  jframe  the  method  take  onli  an  integ  ,  actualmethodparamet       

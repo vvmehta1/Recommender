@@ -1,0 +1,1 @@
+ question  ,  dynamic;  static;  polymorphism  ,i  am  a  bit  confus  with  polymorph  in  java  can  ani  one  answer  with  a  simpl  exampl  what  isth  differ  bw  andin  java  ,          

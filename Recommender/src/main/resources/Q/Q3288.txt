@@ -1,0 +1,1 @@
+ question  ,  null,  if  i  have  multipl  java  thread  write  to  the  same  socket  instanc  simultan  will  that  affect  the  integr  of  the  object  that  are  read  from  the  same  socket  ie  whether  the  content  of  the  object  will  be  mess  up  etc  it  fine  for  the  order  of  object  to  be  random  ,    simpleassignmentexpress  

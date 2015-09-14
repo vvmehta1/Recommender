@@ -1,0 +1,1 @@
+ question  ,  null,  in  our  product  environ  weblog  server  hang  for  half  an  hour  it  look  like  it  has  deadlock  thread  but  after  investig  thread  dump  thread  are  block  for  the  same  lock  but  no  other  thread  own  this  lock  here  is  the  do  you  have  ani  reason  explan  for  this  stiuation  here  is  the  block  thread  ,       

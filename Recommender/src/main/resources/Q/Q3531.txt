@@ -1,0 +1,1 @@
+ question  ,  null,  is  there  some  way  how  to  ensur  that  java  flush  the  cach  of  write  that  have  been  done  befor  the  cyclicbarri  or  countdownlatch  allow  us  to  continu  as  the  synchron  keyword  doe  without  use  the  synchron  keyword  , 

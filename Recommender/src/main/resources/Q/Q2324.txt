@@ -1,0 +1,1 @@
+ question  ,  thread.currentthread().getcontextclassloader();  getclass().getclassloader()  ,what  is  the  differ  between  a  thread  context  class  loader  and  a  normal  classloaderthat  is  if  and  return  differ  class  loader  object  which  one  will  be  use  ,  objectmethodinvoc    

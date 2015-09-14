@@ -1,0 +1,1 @@
+ question  ,  "string;  orb  of  deception  range:  880  cooldown:  7  cost:  70/75/80/85/90  mana;  ""orb  of  deception"";  ""range"";  ""cooldown"";  ""cost"";  jlabel"  ,how  should  i  do  that  for  this  i  want  to  have  color  blue  and  size  for  and  color  black  size  and  the  number  color  green  and  size  it  must  be  contain  in  one  is  this  possibl  , 

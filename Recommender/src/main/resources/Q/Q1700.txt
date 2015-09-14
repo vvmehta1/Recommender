@@ -1,0 +1,1 @@
+ question  ,  "jtabbedpane;  pane.addtab(""welcome""'  'new  imageicon(""resources\1.png"")'  'mainpanel'  '""takes  to  the  welcome  page"");"  ,i  was  creat  an  applic  with  use  nimbus  look  and  feel  i  have  use  this  code  to  place  tab  i  want  the  icon  to  appear  on  the  left  and  ,  objectcreationstat  constructorcal  simpleassignmentexpress 

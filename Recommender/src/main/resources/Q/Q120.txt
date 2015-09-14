@@ -1,0 +1,1 @@
+ question  ,  null,  i  know  we  can  not  instanti  either  an  interfac  or  an  abstract  class  in  java  except  use  anonym  class  method  but  what  is  the  behind  itthank  you  ,          objectvari  simplevari  

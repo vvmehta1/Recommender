@@ -1,0 +1,1 @@
+ question  ,  null,  how  can  i  iter  bit  in  a  byte  array  ,    bytedatatyp  explicittypecast  simpleassignmentexpress  instancefield  booleandatatyp  simplevari     intdatatyp  simpleassignmentexpress  forstat  nestedforloop  lessexpress  constantinvoc  postincrementexpress  bytedatatyp  arrayel  leftshiftexpress  notequalexpress  booleandatatyp  andexpress              

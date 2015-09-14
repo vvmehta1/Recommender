@@ -1,0 +1,1 @@
+ question  ,  null,  im  tri  to  delet  a  file  that  anoth  thread  within  my  program  has  previous  work  with  im  unabl  to  delet  the  file  but  im  not  sure  how  to  figur  out  which  thread  may  be  use  the  fileso  how  do  i  find  out  which  thread  is  lock  the  file  in  java  , 

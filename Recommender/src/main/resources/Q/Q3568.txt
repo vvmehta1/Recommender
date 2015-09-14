@@ -1,0 +1,1 @@
+ question  ,  null,  given  a  thread  which  was  interrupt  while  it  was  not  block  ie  no  interruptedexcept  was  thrown  doe  that  thread  throw  an  interruptedexcept  when  it  later  attempt  to  sleep  the  doe  not  state  this  clear  ,    

@@ -1,0 +1,1 @@
+ question  ,  null,  in  android  is  there  ani  way  to  get  the  context  of  the  applic  of  a  static  way  for  exampl  to  retriev  it  from  a  background  thread  thank  ,    

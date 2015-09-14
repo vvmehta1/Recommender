@@ -1,0 +1,1 @@
+ question  ,  tostring()  ,i  am  store  a  class  object  into  a  string  use  method  now  i  want  to  convert  the  string  into  that  class  object  how  to  do  that  pleas  help  me  with  sourc  code  , 

@@ -1,0 +1,1 @@
+ question  ,  "string  name  =  ""dog"";dog  name  =  new  dog();"  ,this  is  a  simpl  question  i  think  let  say  i  have  this  code  assum  i  have  a  dog  class  how  can  i  get  java  to  recogn  name  as  a  string  and  name  the  object  dog  ,    simpleassignmentexpress  

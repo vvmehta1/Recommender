@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  a  class  full  of  util  function  instanti  an  instanc  of  it  make  no  semant  sens  but  i  still  want  to  call  it  method  what  is  the  best  way  to  deal  with  this  static  class  abstract  ,                

@@ -1,0 +1,1 @@
+ question  ,  service()  ,is  servlet  is  thread  safe  for  ex  if  i  open  differ  browser  and  send  request  to  one  servlet  in  the  contain  is  it  still  thread  safe  i  mean  the  method  special  , 

@@ -1,0 +1,1 @@
+ question  ,  null,  if  i  have  a  java  class  which  is  packagepriv  declar  with  class  not  public  class  there  is  realli  no  differ  if  the  method  insid  are  declar  public  or  protect  or  packagepriv  right  so  which  should  i  use  or  when  should  i  use  which  im  a  bit  confus  ,    

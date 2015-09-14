@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  awar  that  you  can  lock  an  object  in  c  use  lock  but  can  you  give  up  the  lock  and  wait  for  someth  els  to  notifi  you  that  it  chang  like  you  can  in  java  with  wait  and  notifi  it  seem  to  me  that  synchronis  and  lock  in  java  and  c  respect  are  synonom  ,    

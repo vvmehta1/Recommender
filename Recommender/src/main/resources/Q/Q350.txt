@@ -1,0 +1,1 @@
+ question  ,  "string  word  =  ""bannanas"";string  guess  =  ""n"";int  index;system.out.println(  index  =  word.indexof(guess));;  [2'  '3'  '5]"  ,the  follow  code  will  print  i  would  like  to  know  how  to  get  all  the  index  of  n  guess  in  the  string  bannana  the  expect  result  would  be  ,  simpleassignmentexpress    actualmethodparamet        

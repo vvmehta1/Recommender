@@ -1,0 +1,1 @@
+ question  ,  arraylist<hashmap<string'  '  string>>  data  =  new  arraylist<hashmap<string'  '  string>>();  ,i  have  an  arraylist  object  like  this  how  to  iter  through  the  listi  want  to  display  the  valu  in  a  textview  which  come  from  the  data  of  arraylist  object  ,    

@@ -1,0 +1,1 @@
+ question  ,  null,  what  would  be  a  good  way  to  dynam  load  java  class  file  so  that  a  program  compil  into  a  jar  can  read  all  the  class  file  in  a  directori  and  use  them  and  how  can  one  write  the  file  such  as  the  have  the  necessari  packag  name  in  relat  to  the  jar  ,       

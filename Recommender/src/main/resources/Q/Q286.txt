@@ -1,0 +1,1 @@
+ question  ,  null,  consid  a  scenario  that  a  java  program  import  the  class  from  jar  file  if  the  same  class  resid  in  two  or  more  jar  file  there  could  be  a  problem  edit  this  is  an  exampl  i  have  jar  file  myjar  and  myjar  both  the  file  contain  commycompanycrazywrit  ,          simpleassignmentexpress        simpleassignmentexpress  

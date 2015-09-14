@@ -1,0 +1,1 @@
+ question  ,  javax.swing.timer  ,is  there  someth  that  look  like  the  on  android  i  know  how  to  creat  own  thread  but  is  there  someth  that  is  like  the  swingtim  ,  simpleassignmentexpress 

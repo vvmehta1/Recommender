@@ -1,0 +1,1 @@
+ question  ,  random;  nextint(int)  ,is  it  valid  to  share  one  instanc  of  the  class  between  multipl  thread  and  to  call  from  multipl  thread  in  particular  ,                privatefieldspecifi  staticfieldspecifi  classfield  simplevari     simpleassignmentexpress  

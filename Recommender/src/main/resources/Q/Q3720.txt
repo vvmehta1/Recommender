@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  to  make  a  program  in  java  in  which  one  thread  is  read  a  file  and  other  is  write  init  anybodi  pleas  provid  me  ani  refer  link  where  i  can  find  the  code  snippet  for  thesam  , 

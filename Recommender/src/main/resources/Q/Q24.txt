@@ -1,0 +1,1 @@
+ question  ,  null,  im  tri  to  figur  out  what  a  java  applet  class  file  is  do  under  the  hood  open  it  up  with  notepad  or  textpad  just  show  a  bunch  of  gobbledygook  is  there  ani  way  to  wrangl  it  back  into  a  somewhatread  format  so  i  can  tri  to  figur  out  what  it  do  , 

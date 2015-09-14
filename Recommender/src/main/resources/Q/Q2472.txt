@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  a  run  jvm  with  two  thread  is  it  possibl  to  see  these  run  thread  on  my  linux  os  with  ps  axl  i  am  tri  to  find  out  what  prioriti  the  os  is  give  to  my  thread  more  info  about  this  other  issu  ,    objectmethodinvoc     actualmethodparamet  simpleassignmentexpress  orexpress  subtractexpress        

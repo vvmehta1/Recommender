@@ -1,0 +1,1 @@
+ question  ,  "public  class  a  {public  static  void  main(string[]  arg){new  thread(){public  void  run()  {system.out.println(""blah"");}};}};  start()"  ,i  have  the  follow  code  snippet  here  how  do  i  call  the  method  for  the  thread  without  creat  an  instanc  of  the  thread  class  ,             

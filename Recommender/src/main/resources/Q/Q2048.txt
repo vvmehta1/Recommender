@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  made  a  normal  window  with  an  imag  i  was  wonder  how  to  make  a  button  say  click  here  to  start  which  when  press  will  close  the  program  and  launch  anoth  program  ,    objectmethodinvoc  actualmethodparamet  fals     

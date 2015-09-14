@@ -1,0 +1,1 @@
+ question  ,  null,  if  class  b  and  class  c  extend  class  a  and  i  have  an  object  of  type  b  or  c  how  can  i  determin  which  it  instanti  ,             objectmethodinvoc  objectvari  simplevari  actualmethodparamet     simpleassignmentexpress  

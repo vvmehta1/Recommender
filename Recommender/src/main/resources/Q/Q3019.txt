@@ -1,0 +1,1 @@
+ question  ,  null,  it  is  obvious  that  os  schedul  thread  algorithm  have  their  impact  on  java  thread  butcan  we  safe  say  that  thread  are  osmachin  depend  if  this  is  the  case  then  doesnt  it  make  java  platform  depend  ,       

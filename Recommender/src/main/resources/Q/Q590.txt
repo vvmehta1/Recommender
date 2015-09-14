@@ -1,0 +1,1 @@
+ question  ,  public  static  void  method(object[]  params);  classa  a;  classa  a;  classb  b;  classc  c  ,the  method  is  how  should  i  call  it  in  the  follow  scenario  ,  simplevari  arraydatatyp  objectvari 

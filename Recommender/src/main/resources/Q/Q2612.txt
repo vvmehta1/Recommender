@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  to  optim  my  applic  number  of  threadsalmost  all  of  them  have  io  besid  cpu  usag  in  an  equal  valuehow  much  is  the  effici  number  of  thread  when  there  are  no  other  applic  run  in  systemi  want  the  answer  for  window  and  under  jvm  ,                

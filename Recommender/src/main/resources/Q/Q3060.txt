@@ -1,0 +1,1 @@
+ question  ,  mythread.setcontextclassloader(null)  ,im  tri  to  clean  up  tomcat  warn  about  memori  leak  due  to  creat  my  own  thread  propos  that  i  call  prior  to  start  the  threadwhat  is  the  implic  of  this  call  will  the  code  in  the  run  method  still  be  abl  to  resolv  class  from  my  applic  ,  objectmethodinvoc  actualmethodparamet 

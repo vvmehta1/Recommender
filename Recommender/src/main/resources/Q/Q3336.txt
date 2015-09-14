@@ -1,0 +1,1 @@
+ question  ,  runnable;  thread;  thread;  final  ,i  have  come  across  this  statement  that  to  creat  a  new  thread  it  is  best  to  use  the  interfac  instead  of  extend  the  class  if  that  is  true  whi  doe  java  even  allow  us  to  extend  the  class  whi  not  make  it  ,  objectvari  simplevari       

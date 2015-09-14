@@ -1,0 +1,1 @@
+ question  ,  null,  i  came  across  a  rather  unusu  way  to  build  an  object  of  a  class  in  this  blog  is  this  a  good  way  to  do  this  what  are  the  benefit  ,          objectvari  simplevari  simpleassignmentexpress        

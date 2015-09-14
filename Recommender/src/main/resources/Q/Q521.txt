@@ -1,0 +1,1 @@
+ question  ,  "interface  int  {public  void  show();}public  class  test  {  public  static  void  main(string[]  args)  {int  t1  =  new  int()  {public  void  show()  {system.out.println(""message"");}};t1.show();}}"  ,  ,    objectmethodinvoc        

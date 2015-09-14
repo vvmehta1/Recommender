@@ -1,0 +1,1 @@
+ question  ,  car  one  =  new  opel();opel  two  =  new  opel();  ,pleas  explain  the  differ  between  object  one  and  two  class  opel  extend  class  car  ,  simpleassignmentexpress  objectcreationstat  constructorcal       

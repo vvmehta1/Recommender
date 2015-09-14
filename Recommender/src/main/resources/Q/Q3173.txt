@@ -1,0 +1,1 @@
+ question  ,  setmaxperroute(max);setmaxtotal(max)  ,can  someon  pleas  explain  to  me  what  and  do  in  refer  to  httpcompon  poolinghttpclientconnectionmanag  ,  actualmethodparamet 

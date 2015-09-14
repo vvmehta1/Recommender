@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  a  static  inner  class  that  cant  be  instanti  even  by  the  extern  class  right  now  i  just  have  a  document  that  say  pleas  dont  instanti  this  object  can  i  give  a  better  signal  ,       

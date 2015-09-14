@@ -1,0 +1,1 @@
+ question  ,  null,  what  is  the  differ  between  creat  a  new  object  and  depend  inject  pleas  explain  in  detail  ,       classdefinit  privatefieldspecifi  instancefield  simplevari  methoddefinit  publicmethodspecifi  voiddatatyp  objectmethodinvoc  formalmethodparamet  constructordefinit  publicconstructorspecifi  simpleassignmentexpress        

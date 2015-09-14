@@ -1,0 +1,1 @@
+ question  ,  null,  alright  i  know  it  the  rule  i  just  wonder  whi  what  may  happen  if  we  are  allow  to  declar  interfac  within  an  inner  class  wont  inner  class  becom  toplevel  class  if  i  put  it  into  anoth  class  file  ,          

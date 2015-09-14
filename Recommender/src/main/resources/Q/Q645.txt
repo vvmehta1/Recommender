@@ -1,0 +1,1 @@
+ question  ,  null,  im  new  to  java  but  if  i  understand  correct  a  char  is  a  primit  do  char  temp  and  temphashcod  wont  compil  but  do  a  char  temp  new  char  and  temphashcod  will  compil  and  execut  doe  this  mean  somehow  a  char  is  an  object  ,                

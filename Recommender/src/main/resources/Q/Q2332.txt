@@ -1,0 +1,1 @@
+ question  ,  java.lang.outofmemoryerror:  java  heap  space  ,i  am  get  the  follow  error  on  execut  of  a  multithread  program  the  abov  error  occur  in  one  of  the  thread  ,  objectvari  simplevari             predecrementexpress        

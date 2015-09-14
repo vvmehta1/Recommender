@@ -1,0 +1,1 @@
+ question  ,  null,  actual  what  other  way  are  avail  apart  from  extend  the  thread  class  and  implement  the  runnabl  interfac  ,       simpleassignmentexpress  objectmethodinvoc  actualmethodparamet     

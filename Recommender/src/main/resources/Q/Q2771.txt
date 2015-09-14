@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  develop  a  to  mani  servercli  applic  which  is  a  small  project  sinc  socket  io  is  block  i  am  look  for  a  solut  for  this  could  anyon  tell  me  what  is  the  goodbad  for  each  of  the  solut  thank  ,             

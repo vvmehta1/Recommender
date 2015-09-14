@@ -1,0 +1,1 @@
+ question  ,  mouseevent;  getpoint()  ,i  am  get  a  in  javath  method  is  ad  the  height  of  the  titl  bar  into  the  y  portion  of  the  coordin  i  was  wonder  how  i  can  find  the  height  of  the  titl  bar  of  the  current  window  in  order  to  offset  the  y  valu  by  the  correct  amount  , 

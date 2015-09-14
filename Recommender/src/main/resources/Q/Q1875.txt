@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  make  a  gui  use  swing  for  a  poker  framework  and  need  some  sort  of  slider  to  allow  player  to  select  a  bet  size  howev  the  swing  jslider  onli  work  with  int  valu  wherea  i  need  someth  that  can  support  doubl  for  decim  point  are  there  ani  librari  i  can  use  or  trick  with  the  jslider  thank  ,    

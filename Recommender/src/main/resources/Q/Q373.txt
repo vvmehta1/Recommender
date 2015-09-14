@@ -1,0 +1,1 @@
+ question  ,  field1field2field3...  ,i  have  sever  field  each  one  is  like  this  use  a  loop  with  a  counter  i  want  to  be  abl  to  say  fieldxwher  x  is  the  valu  of  the  counter  in  that  loopthi  mean  if  i  have  entri  in  my  array  field  field  will  be  given  valu  is  fieldx  possibl  , 

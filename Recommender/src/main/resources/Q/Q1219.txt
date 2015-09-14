@@ -1,0 +1,1 @@
+ question  ,  null,  what  are  good  reason  to  prohibit  inherit  in  java  for  exampl  by  use  final  class  or  class  use  a  singl  privat  parameterless  constructor  what  are  good  reason  of  make  a  method  final  ,                stringvari  stringdatatyp  simpleassignmentexpress              

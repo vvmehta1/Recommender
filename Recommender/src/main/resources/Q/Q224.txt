@@ -1,0 +1,1 @@
+ question  ,  foo.class;  foo.gettype();typeof(foo);  ,i  m  look  at  some  java  code  and  there  is  this  code  that  i  see  often  this  is  be  use  to  to  indic  the  type  of  the  class  is  that  similar  toin  c  what  is  it  be  use  for  and  what  s  the  mean  of  it  ,  objectmethodinvoc  actualmethodparamet    simpleassignmentexpress  

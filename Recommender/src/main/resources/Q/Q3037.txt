@@ -1,0 +1,1 @@
+ question  ,  null,  i  want  to  get  the  process  id  of  a  thread  to  see  how  much  memori  it  take  ,    objectmethodinvoc           

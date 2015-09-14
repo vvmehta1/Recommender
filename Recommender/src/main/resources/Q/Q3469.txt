@@ -1,0 +1,1 @@
+ question  ,  null,  i  need  an  java  executor  that  reject  task  if  some  other  task  is  process  i  guess  it  not  possibl  to  get  manipul  the  work  queue  size  someon  might  wonder  whi  i  need  an  executor  with  such  characterist  in  the  first  place  i  need  an  abil  to  easili  chang  the  polici  and  allow  nonzero  queue  size  ani  idea  ,    

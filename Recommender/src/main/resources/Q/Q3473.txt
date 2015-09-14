@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  recent  learnt  that  jmonkey  oper  on  onli  a  singl  thread  which  is  it  opengl  render  thread  howev  im  not  abl  to  understand  it  complet  i  can  understand  that  it  execut  all  updat  and  initi  call  on  a  singl  updat  loop  but  input  should  be  independ  of  this  updat  loop  otherwis  it  will  becom  a  poll  mechan  , 

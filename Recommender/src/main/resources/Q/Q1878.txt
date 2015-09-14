@@ -1,0 +1,1 @@
+ question  ,  null,  im  do  some  swing  gui  work  with  java  and  i  think  my  question  is  fair  straightforward  how  doe  one  set  the  posit  of  the  mous  ,    formalmethodparamet  objectmethodinvoc  actualmethodparamet  trycatchstat  simpleassignmentexpress  objectcreationstat  constructorcal  instancefield  simplevari  objectvari        

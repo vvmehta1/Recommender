@@ -1,0 +1,1 @@
+ question  ,  newcachedthreadpool();  newfixedthreadpool(...)  ,  versuswhen  should  i  use  everi  one  of  them  and  which  strategi  is  better  in  term  of  resourc  utilis  ,  simpleassignmentexpress       

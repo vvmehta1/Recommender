@@ -1,0 +1,1 @@
+ question  ,  setsize();  setpreferredsize();  setsize();  setpreferredsize();  pack()  ,i  am  not  clear  about  what  is  the  differ  between  andwhat  would  happen  if  i  use  instead  of  and  what  exact  doe  method  do  , 

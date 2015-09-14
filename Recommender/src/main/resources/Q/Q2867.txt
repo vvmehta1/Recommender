@@ -1,0 +1,1 @@
+ question  ,  null,  is  javautilobserv  in  android  threadsaf  the  say  that  onli  deleteobserv  and  deleteobserv  are  synchron  method  what  about  addobserv  setclearhaschang  can  i  safe  call  addobserv  from  differ  thread  without  lock  around  the  observ  object  , 

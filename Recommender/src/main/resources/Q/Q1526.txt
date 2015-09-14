@@ -1,0 +1,1 @@
+ question  ,  null,  i  would  like  to  understand  the  key  differ  between  parametr  polymorph  such  as  polymorph  of  generic  classesfunct  in  the  javascalac  languag  and  adhoc  polymorph  in  the  haskel  type  system  im  familiar  with  the  first  kind  of  languag  but  i  have  never  work  with  the  haskel  more  precis  thank  in  advanc  ,       

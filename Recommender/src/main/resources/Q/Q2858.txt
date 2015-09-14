@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  confus  about  how  to  use  toast  to  print  out  messagesi  need  to  use  it  to  print  out  messag  that  come  from  the  thread  while  loopmi  thread  which  render  graphic  are  on  a  differ  class  than  my  activityi  mean  they  are  not  implement  in  the  same  filei  there  a  way  to  do  this  , 

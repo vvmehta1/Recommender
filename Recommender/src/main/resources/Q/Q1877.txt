@@ -1,0 +1,1 @@
+ question  ,  null,  im  creat  simpl  gui  form  with  one  button  in  intellij  idea  class  wich  was  creat  with  form  is  not  jframe  or  ani  anoth  swing  class  how  i  can  call  my  form  in  my  sourc  code  ,    

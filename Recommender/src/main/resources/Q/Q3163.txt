@@ -1,0 +1,1 @@
+ question  ,  {thread  t  =  new  thread();t.start();}  ,afteri  the  thread  object  a  candid  for  the  gc  ,  simpleassignmentexpress  objectcreationstat  constructorcal  objectmethodinvoc    objectmethodinvoc     

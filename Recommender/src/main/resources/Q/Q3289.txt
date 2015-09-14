@@ -1,0 +1,1 @@
+ question  ,  javax.xml.parsers.documentbuilderfactory;  documentbuilderfactory  ,the  for  state  in  no  uncertain  term  the  and  doc  howev  say  noth  of  the  kind  is  threadsaf  now  or  did  sun  just  decid  the  warn  was  overkil  and  peopl  should  know  better  ,  simpleassignmentexpress    

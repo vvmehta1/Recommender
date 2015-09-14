@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  tri  to  replac  gridbaglayout  with  miglayout  the  problem  is  that  if  i  call  objsetvisiblefals  for  some  object  im  gridbaglayout  layout  shrink  but  in  miglayout  it  just  remain  hidden  do  you  know  some  way  to  make  miglayout  act  like  gridbag  layoutent  imag  descript  here  , 

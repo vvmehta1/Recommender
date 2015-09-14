@@ -1,0 +1,1 @@
+ question  ,  null,  say  that  you  have  a  hard  limit  to  a  number  of  thread  in  java  like  k  or  k  even  if  you  have  no  os  cap  per  that  and  unlimit  ram  i  also  heard  that  in  java  this  limit  is  lift  are  both  statement  true  , 

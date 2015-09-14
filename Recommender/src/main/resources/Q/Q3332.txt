@@ -1,0 +1,1 @@
+ question  ,  while(!anotherthread.isdone());;  while(!anotherthread.isdone())thread.sleep(5);  ,or  ,  whilestat  notexpress  objectmethodinvoc  actualmethodparamet    objectmethodinvoc  simpleassignmentexpress        simpleassignmentexpress  true        objectmethodinvoc     objectmethodinvoc  actualmethodparamet     

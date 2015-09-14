@@ -1,0 +1,1 @@
+ question  ,  null,  i  need  some  help  defin  the  follow  object  hierarchi  databas  relationship  in  hibern  from  the  object  sens  þêã  agent  is  inherit  from  person  and  agenc  is  inherit  from  organ  they  are  inherit  from  parti  which  can  have  multipl  address  associ  with  it  the  databas  consist  of  , 

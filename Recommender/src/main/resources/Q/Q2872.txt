@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  learn  that  the  jni  interfac  pointer  jnienv  is  onli  valid  in  the  current  thread  suppos  i  start  a  new  thread  insid  a  nativ  method  how  it  can  asynchron  send  event  to  a  java  method  as  this  new  thread  cant  have  a  refer  of  jnienv  store  a  global  variabl  for  jnienv  appar  will  not  work  ,    

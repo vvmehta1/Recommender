@@ -1,0 +1,1 @@
+ question  ,  null,  i  have  a  web  applic  in  tomcat  when  i  shut  down  tomcat  i  see  these  warn  but  not  alway  what  do  these  warn  mean  in  catalinaout  on  shutdown  i  see  some  of  my  jaxb  class  mention  but  cant  tell  what  the  issu  is  here  ani  help  pleas  ,       objectmethodinvoc  

@@ -1,0 +1,1 @@
+ question  ,  "list<string>  list  =  new  arraylist<string>();list.add(""a"");list.add(""b"");list.add(""c"");list.remove(""b"");system.out.println(list.get(1));  //output  ""c"""  ,ye  this  is  an  old  topic  but  i  still  have  some  confus  in  java  peopl  say  ,    classdefinit  instancefield  simplevari  privatefieldspecifi  intdatatyp                 

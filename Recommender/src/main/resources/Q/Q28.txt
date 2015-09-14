@@ -1,0 +1,1 @@
+ question  ,  null,  what  is  the  advantag  of  local  class  in  java  or  in  ani  other  languag  that  make  use  of  this  featur  ,    objectvari  simplevari     

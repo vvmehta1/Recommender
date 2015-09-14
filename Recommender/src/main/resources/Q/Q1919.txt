@@ -1,0 +1,1 @@
+ question  ,  int  getlinenumber(jtextpane  pane'  '  int  pos){  return  ???}  ,im  look  for  a  method  that  comput  the  line  number  of  a  given  text  posit  in  a  jtextpan  with  wrap  enabl  exampl  the  cursor  is  on  line  number  four  not  two  can  someon  provid  me  with  the  implement  of  the  method  ,    

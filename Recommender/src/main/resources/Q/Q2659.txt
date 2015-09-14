@@ -1,0 +1,1 @@
+ question  ,  null,  here  an  unusu  one  is  it  possibl  to  obtain  the  classmethod  that  origin  spawn  the  current  run  thread  run  a  stack  trace  will  natur  stop  at  the  top  of  the  call  stack  for  the  current  thread  ,       objectmethodinvoc  simpleassignmentexpress     

@@ -1,0 +1,1 @@
+ question  ,  executorservice;  runnable;  thread  ,what  is  the  advantag  of  use  over  run  thread  pass  a  into  the  constructor  ,  objectvari  simplevari  simpleassignmentexpress          

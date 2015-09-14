@@ -1,0 +1,1 @@
+ question  ,  internal  ,in  c  you  can  mark  a  class  as  so  that  it  is  onli  access  from  within  the  same  packag  is  there  anyth  similar  in  java  ,  simpleassignmentexpress    classdefinit  publicclassspecifi  publicfieldspecifi  staticfieldspecifi  classfield  intdatatyp  simplevari  privatefieldspecifi  privateclassspecifi     classdefinit           

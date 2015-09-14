@@ -1,0 +1,1 @@
+ question  ,  null,  can  anybodi  recommend  a  prefer  opensourc  framework  for  decoupl  gui  from  model  in  java  desktop  applic  ,             

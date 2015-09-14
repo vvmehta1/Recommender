@@ -1,0 +1,1 @@
+ question  ,  x;  x  -  11  ,okay  so  i  am  use  the  javamail  librari  and  i  am  tri  to  fetch  certain  messag  number  i  want  to  do  it  effici  and  not  have  to  loop  twice  over  somethingþê  anyway  my  question  to  you  is  how  can  i  creat  an  array  that  start  at  index  and  end  at  index  without  loop  ,  simpleassignmentexpress  subtractexpress    

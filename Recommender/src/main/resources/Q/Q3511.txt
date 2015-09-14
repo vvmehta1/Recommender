@@ -1,0 +1,1 @@
+ question  ,  null,  i  am  work  on  a  c  port  of  a  java  librari  one  of  the  problem  is  i  am  not  abl  to  find  equival  of  java  atomiclongarray  anyon  know  if  there  is  anyth  alreadi  equival  in  c  or  how  to  implement  similar  function  i  had  a  look  at  c  atom  but  could  not  find  anyth  ,    

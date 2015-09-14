@@ -1,0 +1,1 @@
+ question  ,  list  <integer>  list  =  new  arraylist<integer>();list.addelement(1);....  ,mani  peopl  and  author  suggest  to  us  to  use  list  than  array  what  it  is  the  reason  behind  it  ,  javautilarraylist  simpleassignmentexpress  genericobjectcreationstat  objectmethodinvoc  actualmethodparamet                
